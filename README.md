@@ -2,7 +2,7 @@
 
 完整公开阅读版：产品介绍、全场景旅程、竞品分析与设计策略。
 
-网站地址：[打开完整报告](https://icypoint2025.github.io/supernode-platform-research/)。首次自动发布进行中。
+网站地址：[打开完整报告](https://icypoint2025.github.io/supernode-platform-research/)。
 
 ## 自动发布
 
