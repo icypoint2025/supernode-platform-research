@@ -1,9 +1,9 @@
 {
   "asset_files": 358,
   "asset_bytes": 87015852,
-  "payload_files": 360,
+  "payload_files": 359,
   "payload_bytes": 87016177,
-  "total_files": 362,
+  "total_files": 361,
   "metadata_files": [
     "manifest.json",
     "static-validation.json"

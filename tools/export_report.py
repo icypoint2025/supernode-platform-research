@@ -205,11 +205,11 @@ def build(root,dest):
     for name,data in assets.items():
         target=DEST/name;target.parent.mkdir(parents=True,exist_ok=True);target.write_bytes(data)
     entry='<!doctype html><meta charset="utf-8"><title>超节点产品研究</title><script>const target=new URL("output/超节点平台竞争分析.html",location.href);target.search=location.search;target.hash=location.hash;location.replace(target.href)</script><a href="output/超节点平台竞争分析.html">进入完整报告</a>'
-    (DEST/'index.html').write_text(entry,encoding='utf-8');(DEST/'.nojekyll').write_text('',encoding='utf-8')
+    (DEST/'index.html').write_text(entry,encoding='utf-8')
     for owner,targets in edges.items():
         for target in targets:
             if not (DEST/target).is_file():raise FileNotFoundError(target)
-    generated={'index.html':entry.encode('utf-8'),'.nojekyll':b''}
+    generated={'index.html':entry.encode('utf-8')}
     payload={**assets,**generated}
     stats={'asset_files':len(assets),'asset_bytes':sum(map(len,assets.values())),
            'payload_files':len(payload),'payload_bytes':sum(map(len,payload.values())),
