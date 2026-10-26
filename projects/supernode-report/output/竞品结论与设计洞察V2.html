@@ -30,27 +30,27 @@ button{font-family:inherit}button:focus-visible,a:focus-visible{outline:2px soli
 .demo-card{border-color:var(--line);border-radius:6px}.demo-feedback{border-color:#2664eb;color:var(--ink)}
 @media(max-width:700px){.page{padding:18px 14px 28px}.top{flex-wrap:wrap}.thesis{padding:16px}}
 @media print{.page{padding:15px}}
-.page{padding:12px 12px 20px}.top{gap:8px}.section{margin-top:12px}.focus,.insights,.strategies,.bottom{gap:7px}
-.thesis{margin-top:10px;padding:10px;border:0;border-radius:0}
-.focus article,.insight,.strategy,.panel{border-radius:0;box-shadow:none}
-.insight,.strategy,.panel{padding:10px}
-.section-head{gap:6px;margin-bottom:7px}.section-head h2{margin-bottom:3px}
-.head{gap:10px}.subtitle{margin-top:4px}.baseline{padding:5px 7px;margin-bottom:6px;border:0;border-radius:0}
-.competitive-brief{margin-bottom:12px}.competitive-brief h2{margin:0 0 5px}.competitive-brief .brief-lead{margin:0 0 7px}
-.competitive-brief .brief-table-wrap{border:0;border-radius:0}.competitive-brief .brief-table th,.competitive-brief .brief-table td{padding:7px 8px}
-.competitive-brief .brief-boundary{margin:6px 0 0}.competitive-brief .brief-skeleton{margin-top:7px;padding:7px 8px;border-radius:0}
-.competitive-brief .brief-skeleton p{margin:0 0 3px}
-@media(max-width:700px){.page{padding:9px 7px 14px}.thesis{padding:8px}}
+.page{padding:6px 6px 10px}.top{gap:4px}.section{margin-top:6px}.focus,.insights,.strategies,.bottom{gap:3.5px}
+.thesis{margin-top:5px;padding:5px;}
 
-.page{padding:12px 12px 20px}.head{gap:7.5px;margin-bottom:6.5px}
-.focus article{padding:9px 10px;border:0;border-radius:0}
-.insight,.strategy,.bottom>.panel{padding:10px;border:0;border-radius:0}
-.insight h3{margin:3.5px 0 4.5px}.beforeafter{gap:3.5px}.beforeafter .cell{padding:5px 6px;min-height:33px;border-radius:3px}
-.basis{margin-top:6px}.implication{margin-top:6px;padding-top:5px}
-.strategy .sheader,.strategy .body{padding:7.5px 9px}.strategy .body p{min-height:0}
-.pillrow{gap:2.5px;margin-top:5px}.strategy .connection{margin-top:7px}
-.flow{gap:2.5px}.flow span{padding:3.5px 4.5px}.foot{margin-top:12px;padding-top:6px}
-@media(max-width:700px){.page{padding:9px 7px 14px}}
+.insight,.strategy,.panel{padding:5px}
+.section-head{gap:3px;margin-bottom:3.5px}.section-head h2{margin-bottom:1.5px}
+.head{gap:5px}.subtitle{margin-top:2px}.baseline{padding:2.5px 3.5px;margin-bottom:3px;}
+.competitive-brief{margin-bottom:6px}.competitive-brief h2{margin:0 0 2.5px}.competitive-brief .brief-lead{margin:0 0 3.5px}
+.competitive-brief .brief-table th,.competitive-brief .brief-table td{padding:3.5px 4px}
+.competitive-brief .brief-boundary{margin:3px 0 0}.competitive-brief .brief-skeleton{margin-top:3.5px;padding:3.5px 4px;}
+.competitive-brief .brief-skeleton p{margin:0 0 1.5px}
+@media(max-width:700px){.page{padding:4.5px 3.5px 7px}.thesis{padding:4px}}
+
+.page{padding:6px 6px 10px}.head{gap:3.75px;margin-bottom:3.25px}
+.focus article{padding:4.5px 5px;}
+.insight,.strategy,.bottom>.panel{padding:5px;}
+.insight h3{margin:1.75px 0 2.25px}.beforeafter{gap:1.75px}.beforeafter .cell{padding:2.5px 3px;min-height:33px;}
+.basis{margin-top:3px}.implication{margin-top:3px;padding-top:2.5px}
+.strategy .sheader,.strategy .body{padding:3.75px 4.5px}.strategy .body p{min-height:0}
+.pillrow{gap:1.25px;margin-top:2.5px}.strategy .connection{margin-top:3.5px}
+.flow{gap:1.25px}.flow span{padding:1.75px 2.25px}.foot{margin-top:6px;padding-top:3px}
+@media(max-width:700px){.page{padding:4.5px 3.5px 7px}}
 </style></head><body><main class="page"><header class="top"><div><div class="overline">竞品分析 / 设计洞察 / 设计策略</div><h1>竞品结论与设计洞察</h1><div class="subtitle">以已有竞品材料呈现的能力为参照，识别现有架构之上的体验优化空间。</div></div><button class="print" onclick="window.print()">打印 / 保存 PDF</button></header>
 <section class="thesis"><div><div class="small">核心结论</div><h2>在现有能力之上，让任务、资源与异常信息相互关联</h2><p>竞品分别突出任务使用、基础设施运维和多层监控。超节点已规划 Portal / Admin 等基本架构；设计重点是信息能否跨页面、跨角色持续使用，而非重新定义双端分工。</p></div><div class="lineage"><span>资源<br/>可理解</span><i>→</i><span>任务<br/>可追踪</span><i>→</i><span>故障<br/>可闭环</span></div></section>
 <section class="section"><div class="head"><strong>01 / 竞品能力的三种侧重点</strong><small>研究定位的归纳，不代表各产品互斥或缺失其他能力</small></div><div class="focus"><article><b>算力与任务使用</b><div class="desc">开发、训练、部署与算力资源使用流程</div><div class="brands">百度百舸 · NVIDIA Run:ai · AIStation</div></article><article><b>基础设施与运维</b><div class="desc">集群运行、告警诊断与故障处置</div><div class="brands">NVIDIA Mission Control / AHR · 华为 MindCluster · H3C</div></article><article><b>资源监控与可观测</b><div class="desc">集群、节点、GPU、网络与存储状态</div><div class="brands">Gridview · 华为 CCAE · H3C 相关组件</div></article></div></section>

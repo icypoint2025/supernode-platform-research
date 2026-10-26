@@ -56,30 +56,30 @@ button{font-family:inherit}button:focus-visible,a:focus-visible{outline:2px soli
 .demo-card{border-color:var(--line);border-radius:6px}.demo-feedback{border-color:#2664eb;color:var(--ink)}
 @media(max-width:700px){.page{padding:18px 14px 28px}.top{flex-wrap:wrap}.thesis{padding:16px}}
 @media print{.page{padding:15px}}
-.page{padding:12px 12px 20px}.top{gap:8px}.section{margin-top:12px}.focus,.insights,.strategies,.bottom{gap:7px}
-.thesis{margin-top:10px;padding:10px;border:0;border-radius:0}
-.focus article,.insight,.strategy,.panel{border-radius:0;box-shadow:none}
-.insight,.strategy,.panel{padding:10px}
-.section-head{gap:6px;margin-bottom:7px}.section-head h2{margin-bottom:3px}
-.head{gap:10px}.subtitle{margin-top:4px}.baseline{padding:5px 7px;margin-bottom:6px;border:0;border-radius:0}
-.competitive-brief{margin-bottom:12px}.competitive-brief h2{margin:0 0 5px}.competitive-brief .brief-lead{margin:0 0 7px}
-.competitive-brief .brief-table-wrap{border:0;border-radius:0}.competitive-brief .brief-table th,.competitive-brief .brief-table td{padding:7px 8px}
-.competitive-brief .brief-boundary{margin:6px 0 0}.competitive-brief .brief-skeleton{margin-top:7px;padding:7px 8px;border-radius:0}
-.competitive-brief .brief-skeleton p{margin:0 0 3px}
-@media(max-width:700px){.page{padding:9px 7px 14px}.thesis{padding:8px}}
+.page{padding:6px 6px 10px}.top{gap:4px}.section{margin-top:6px}.focus,.insights,.strategies,.bottom{gap:3.5px}
+.thesis{margin-top:5px;padding:5px;}
 
-.top{padding:13px 17.5px 9px}.top h1{margin-bottom:4px}.nav{gap:4px;margin-top:10px}.nav a{padding:4px 6px}
-.shell{padding:12.5px 16px 32.5px}.overview-box{padding:11px 8.5px 9px;border:0;border-radius:0}
-.scenario-panel{padding:10.5px 10px 10px;border:0;border-radius:0}
-.notes{padding:9px 10px;margin-top:7.5px;border:0;border-radius:0}
-.coop{padding:10px;border:0;border-radius:0}.ref-table{padding:9px;border:0;border-radius:0}
-.scenario-controls,.flow-controls{gap:6px;padding:6px}.flow-scroll{padding:0}
-.node-explainer{padding:10px;margin-top:7px;border:0;border-radius:0}
-.explain-columns{gap:7px}.explain-columns>div{padding:7px;border:0;border-radius:0}
-.scene-card-direct{padding:10px;margin-bottom:7px;border:0;border-bottom:1px solid var(--line);border-radius:0}
-.lifecycle-scope{margin-top:6px}
+.insight,.strategy,.panel{padding:5px}
+.section-head{gap:3px;margin-bottom:3.5px}.section-head h2{margin-bottom:1.5px}
+.head{gap:5px}.subtitle{margin-top:2px}.baseline{padding:2.5px 3.5px;margin-bottom:3px;}
+.competitive-brief{margin-bottom:6px}.competitive-brief h2{margin:0 0 2.5px}.competitive-brief .brief-lead{margin:0 0 3.5px}
+.competitive-brief .brief-table th,.competitive-brief .brief-table td{padding:3.5px 4px}
+.competitive-brief .brief-boundary{margin:3px 0 0}.competitive-brief .brief-skeleton{margin-top:3.5px;padding:3.5px 4px;}
+.competitive-brief .brief-skeleton p{margin:0 0 1.5px}
+@media(max-width:700px){.page{padding:4.5px 3.5px 7px}.thesis{padding:4px}}
+
+.top{padding:6.5px 8.75px 4.5px}.top h1{margin-bottom:2px}.nav{gap:2px;margin-top:5px}.nav a{padding:2px 3px}
+.shell{padding:6.25px 8px 16.25px}.overview-box{padding:5.5px 4.25px 4.5px;}
+.scenario-panel{padding:5.25px 5px 5px;}
+.notes{padding:4.5px 5px;margin-top:3.75px;}
+.coop{padding:5px;}.ref-table{padding:4.5px;}
+.scenario-controls,.flow-controls{gap:3px;padding:3px}.flow-scroll{padding:0}
+.node-explainer{padding:5px;margin-top:3.5px;}
+.explain-columns{gap:3.5px}.explain-columns>div{padding:3.5px;}
+.scene-card-direct{padding:5px;margin-bottom:3.5px;}
+.lifecycle-scope{margin-top:3px}
 /* 泳道列宽、行高、节点边距与SVG坐标保持一致，避免压缩造成错位。 */
-@media(max-width:700px){.top{padding:10.5px 8px}.shell{padding:10px 6.5px}.scenario-panel{padding:7px}}
+@media(max-width:700px){.top{padding:5.25px 4px}.shell{padding:5px 3.25px}.scenario-panel{padding:3.5px}}
 </style></head><body><header class="top"><h1>全场景用户旅程与角色协作</h1><p>平台业务围绕交付部署、调试移交和日常运维三个环节展开，覆盖从设备接入到服务运营与扩展的八个阶段。重点场景进一步明确各角色的工作分工、任务交接和异常处理。</p></header><main class="shell"><section class="relation-explain" aria-label="三层关系说明"><div class="relation-steps"><div class="rel-item"><span class="rel-index">第一层</span><strong>全生命周期阶段</strong><p>业务从设备交付与接入开始，逐步进入任务运行、服务运营与扩展。</p></div><span class="rel-arrow">→</span><div class="rel-item"><span class="rel-index">第二层</span><strong>重点业务场景（SC）</strong><p>重点场景串联一个或多个业务阶段，明确业务目标、现有问题与预期价值。</p></div><span class="rel-arrow">→</span><div class="rel-item"><span class="rel-index">第三层</span><strong>角色协作任务</strong><p>各角色围绕同一任务分工协作，衔接操作、交接与异常处理。</p></div></div></section><section id="overview"><div class="section-head"><div><div class="section-label">01 · LIFECYCLE & SCENE MAP</div><div class="lifecycle-title-row"><h2>全场景总用户旅程 · 业务生命周期</h2><button type="button" id="openLifecycleExample" aria-haspopup="dialog">业务关系示例图</button></div><p>交付与接入、系统初始化、组织与资源准备、创建业务任务、调度与运行构成主业务流程；监测与保障、服务消费与运营并行开展，优化与扩展持续反馈。阶段编号表示业务分类，不等于严格执行顺序。</p></div><span class="mini-tag">8 个生命周期阶段 · 8 个 SC 场景 · 多对多关联</span></div><div class="overview-box"><div class="stage-scroll"><div id="stages" class="stage-track"></div></div><div id="stageContext" hidden></div><div class="over-note"><span>实线箭头：01–05 主业务推进；虚线：06、07 并行支撑；返回箭头：08 持续反馈。监测保障贯穿系统运行与任务执行，服务运营在相关服务可用后开展。</span></div><details class="lifecycle-scope"><summary>MRD v0.5 范围与差异说明</summary><p>阶段 03 的“组织与资源准备”为业务阶段名称，MRD 中“租户管理”等功能名称不变。安全管理员负责成员与授权，系统管理员负责技术资源，运营管理员协作配额；“系统调度”为系统动作，不是用户角色。</p><p>阶段 07：资源与 Token 计量、账单管理已列入 MRD（OM-005/006）；费用分析、北向 API 已列入需求（OM-007/020），第三方消纳转售另属演进范围（OM-021）。Token 消费者为应用凭据主体，平台计量及审计到 Key/租户粒度。</p><p>阶段 08：调度策略管理依据 SCH-021；资源优化画像与仿真（SCH-024/025）、多集群管理（SCH-046～054）及容量规划（DCIM-055）属于 MRD 后续演进范围。原“新增资源”改为扩展规划，不代表已执行扩容；MRD 规划结果不等于功能已上线。</p><p>依据：MRD v0.5《1-产品概述》第10–14、23行；《8-运营管理 - Minhua》第7–8、12–16、23–24行；《4-集群调度管理 - Yubo》第39、46–47、93–101行；《9-动环DCIM - Eddy》第56行；《15-里程碑与风险》第8、18行。</p></details></div></section><section class="section" id="coreScenes"><div class="section-head"><div><div class="section-label">02 · CORE BUSINESS SCENARIOS</div><h2>重点业务场景 · SC-1～SC-8</h2><p>七个重点场景覆盖交付验收、训练、推理、液冷运维、多租户运营、多集群管理与 Token 运营消纳，分别明确业务目标、参与角色、主要痛点和流程改进方向；AI 与 HPC 混合任务作为能力预留场景。</p></div><span class="mini-tag">7 个重点场景 · 1 个能力预留</span></div><div id="scenarioCards" class="core-scene-grid" aria-label="8 个重点业务场景"></div></section><section class="section" id="scenarios"><div class="section-head"><div><div class="section-label">03 · CROSS-ROLE SWIMLANE</div><h2>跨角色协作泳道</h2><p>各场景按任务推进顺序衔接角色操作，明确责任主体、交接内容与异常处理路径。</p></div><button id="copyButton" class="copybtn">复制当前场景摘要</button></div><div id="sceneTabs" class="scene-tabs" role="tablist" aria-label="核心场景切换"></div><div class="scenario-panel"><div class="scenario-head-combo"><div class="scenario-primary"><h3 id="scenarioTitle"></h3><div class="subline" id="scenarioSub"></div><div class="stage-tags" id="sceneStages"></div></div><div class="scenario-sidebox"><div><b>场景目标：</b><span id="sceneGoal"></span></div><div><b>主要协作：</b><span id="sceneOwner"></span></div></div></div><div class="flow-controls"><div class="zoom-buttons"><button id="zoomFit" class="selected">适应宽度</button><button id="zoomOriginal">100%</button><button id="zoomOut">−</button><button id="zoomIn">+</button><span id="zoomPercent" class="zoom-percent"></span></div><div class="flow-guide" aria-label="图例与操作说明"><div class="keys"><span class="line-key">主流程 / 任务交接</span><span class="line-key exception">虚线：异常 / 返回（仅已设计的场景）</span><span>蓝灰节点：判断与关键校验</span></div><span class="flow-guide-tip">点击节点查看步骤说明、例子与价值。</span></div></div><div class="flow-scroll" id="flowScroll"><div class="flow-viewport" id="flowViewport"><div id="board" class="flow-board"></div></div></div><div class="node-explainer" hidden id="nodeDetail"><div class="node-explainer-head"><span id="nodeRoleLabel">当前步骤</span><strong id="nodeTitle"></strong><button type="button" id="closeNode">收起 ×</button></div><div class="explain-columns"><div><b>这一步在做什么？</b><p id="nodeDesc"></p></div><div><b>举个例子</b><p id="nodeExample"></p></div><div><b>作用 / 价值</b><p id="nodeValue"></p></div></div><div class="node-extras"><div id="nodeExceptionWrap" hidden><b id="branchTitle">异常与处理</b><span id="exception"></span></div><details class="node-requirements"><summary>对应 MRD 需求依据（展开查看）</summary><div id="nodeRefs"></div></details></div></div><div id="topologyExample" class="topology-example" hidden>
 <div class="example-head"><strong>场景实例｜4 台 GPU 服务器接入机柜</strong><span>说明 SC-1 的“拓扑发现与基线检查”</span></div>
 <div class="example-flow"><div class="example-card"><b>① 发现设备</b><p>系统找到 4 台服务器与 2 台交换机，并记录各设备的身份、地址与状态。</p></div><div class="example-arrow">→</div><div class="example-card"><b>② 拓扑发现</b><p>确认服务器 A 连到交换机 1 的哪个端口、服务器 B 连到哪个端口，形成连接关系图。</p></div><div class="example-arrow">→</div><div class="example-card"><b>③ 基线检查</b><p>用实际连接图对比交付规划图，发现“服务器 C 应接交换机 2，实际却接到了交换机 1”。</p></div><div class="example-arrow">→</div><div class="example-card"><b>④ 整改并复查</b><p>管理员定位异常端口，交付方调整线缆，再次检测通过后进入健康验收。</p></div></div>
