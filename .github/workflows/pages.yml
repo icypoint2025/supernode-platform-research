@@ -1,0 +1,36 @@
+name: Publish supernode report
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'projects/supernode-report/**'
+      - 'tools/validate_site.py'
+      - '.github/workflows/pages.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.release.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+      - name: Validate published files
+        run: python3 tools/validate_site.py projects/supernode-report --stage _site
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+      - id: release
+        uses: actions/deploy-pages@v4

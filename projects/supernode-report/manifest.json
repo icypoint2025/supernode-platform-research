@@ -1,0 +1,2564 @@
+{
+  "mode": "公开阅读版",
+  "publication": {
+    "source_documents": "local-only",
+    "raw_mrd_extract": "local-only"
+  },
+  "entry": "index.html",
+  "statistics": {
+    "asset_files": 358,
+    "asset_bytes": 87015852,
+    "payload_files": 360,
+    "payload_bytes": 87016177,
+    "total_files": 362,
+    "metadata_files": [
+      "manifest.json",
+      "static-validation.json"
+    ],
+    "bytes_scope": "payload_bytes包含全部页面与资产，不含这两份元数据，避免自引用统计"
+  },
+  "files": {
+    ".nojekyll": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "index.html": {
+      "bytes": 325,
+      "sha256": "7b8a76822a9204e0c3a94b90d830034663b8d96a8b06636bada2e552e465d169"
+    },
+    "output/Figma背景竞品截图/44-1525.png": {
+      "bytes": 368308,
+      "sha256": "fa65fac7d919d0caaeb38501319307343f1de024cefef8d28defbf7fda9abdec"
+    },
+    "output/Figma背景竞品截图/44-1529.png": {
+      "bytes": 150507,
+      "sha256": "e9658025627495f29518348fb2abac7c3393631b490aba0e409806e6417918d1"
+    },
+    "output/Figma背景竞品截图/44-1530.png": {
+      "bytes": 307058,
+      "sha256": "f78cc478da92b4f35f75b0f6b280d4adde698915dcddc4ee0aa0f0cbe60a203f"
+    },
+    "output/Figma背景竞品截图/44-1531.png": {
+      "bytes": 272163,
+      "sha256": "9c0b50a89486b32ffe6d2806fd3a626c80f350f5613bd39a9cd0e5e0dd81db17"
+    },
+    "output/Figma背景竞品截图/44-1532.png": {
+      "bytes": 139350,
+      "sha256": "7a10cefc25f56d70c4d2d13d8fb8e58644d69f057468efb853ab35443aaa5946"
+    },
+    "output/Figma背景竞品截图/44-1534.png": {
+      "bytes": 297180,
+      "sha256": "41498a859398f1dc5c88834ad0001acb72dd2f431197b12737e22a5464cfffdc"
+    },
+    "output/Figma背景竞品截图/44-1566.png": {
+      "bytes": 1799968,
+      "sha256": "e9edff19ad1aacfe6c3ec7a18d1719a59e621330b0d27a5d4792dde673d3ade4"
+    },
+    "output/Figma背景竞品截图/44-1567.png": {
+      "bytes": 56411,
+      "sha256": "2f49c974b8f5ec426304d7a37eb71a4ce286fa4a14de3fa84b56519fdc92c611"
+    },
+    "output/Figma背景竞品截图/44-1568.png": {
+      "bytes": 40849,
+      "sha256": "1d16a0d95806ab2fd50919f55222302e01cab19645e13648696fdeb04178859f"
+    },
+    "output/Figma背景竞品截图/44-1569.png": {
+      "bytes": 64621,
+      "sha256": "f54f798a4f47bc856c7390c312f12ce1d38485711cc6f4d4f50f2df4212eea8a"
+    },
+    "output/Figma背景竞品截图/44-1570.png": {
+      "bytes": 48153,
+      "sha256": "d027d36937780263aae66985439af4c3de0b316b6845084405169755f7c3d357"
+    },
+    "output/Figma背景竞品截图/44-1571.png": {
+      "bytes": 34605,
+      "sha256": "460228c4b8a58419068a8f1bb757f74083337c68b72533045c9d5641072fd1dd"
+    },
+    "output/Figma背景竞品截图/44-1572.png": {
+      "bytes": 58652,
+      "sha256": "0b8d7a00c927f946ee7fb2868fa7b24ea2159038a81bca1d3749e8afd08d8c9d"
+    },
+    "output/Figma背景竞品截图/44-1573.png": {
+      "bytes": 43175,
+      "sha256": "a17890a665c26783e0170ba2cb87419e91bfdc5e4d931ba933d79ff5a6fcd190"
+    },
+    "output/Figma背景竞品截图/44-1574.png": {
+      "bytes": 89404,
+      "sha256": "491569e949166b6abfc88a66f1693bd3b41cdbce9cd065ce3c7961e177ff623c"
+    },
+    "output/Figma背景竞品截图/44-1575.png": {
+      "bytes": 29406,
+      "sha256": "a398a761044f28ec85db2f969884a4222d2eecea0bb9087647df4a20f57c4ae7"
+    },
+    "output/Figma背景竞品截图/44-1576.png": {
+      "bytes": 58087,
+      "sha256": "9c237bfc53698a9f3a23c808818bb90df305b8458a0def77b7430d4f9b5e7509"
+    },
+    "output/Figma背景竞品截图/44-1577.png": {
+      "bytes": 60108,
+      "sha256": "206feeae7ed5348d1ed4a1aef18a23f9c60ba83da651bbee5bba490c368946a9"
+    },
+    "output/Figma背景竞品截图/44-1578.png": {
+      "bytes": 42760,
+      "sha256": "84187857af71dc8e2247fc2f626d4f902411e5a367ea7de7e7a09bfca62e8f9f"
+    },
+    "output/Figma背景竞品截图/44-1579.png": {
+      "bytes": 18836,
+      "sha256": "7b1939417f0d0725fb8b4ca2a32d11906ff1d7229ce86022acfda7132e53149e"
+    },
+    "output/Figma背景竞品截图/44-1580.png": {
+      "bytes": 59505,
+      "sha256": "98bbe6f7c4206ff25427ddb4d2902106af19acdbe8aa9f4d725a99ddbb2aeb03"
+    },
+    "output/Figma背景竞品截图/44-1581.png": {
+      "bytes": 51911,
+      "sha256": "0d3573b2931700a31957b8601508c6d3cd9da6d8819da07f4879d6ffac607546"
+    },
+    "output/业务关系示例图.png": {
+      "bytes": 131015,
+      "sha256": "4068397e22020e24392b11c76c70da8ec6061988cb61a2d2b0adc308812be32a"
+    },
+    "output/产品定位-产品介绍更新版.html": {
+      "bytes": 19045,
+      "sha256": "68866613460de321cbf00f1d12af2d1bcf30abbee00b1f824e7974e18011ea06"
+    },
+    "output/产品框架-双门户角色侧边栏V12.html": {
+      "bytes": 283287,
+      "sha256": "2d2b8e1132cc5fd481897fcf521ab6c37638c64efab1e3593bb67ce43efecc46"
+    },
+    "output/全场景旅程与角色协作V15.html": {
+      "bytes": 110108,
+      "sha256": "bd72422270c324d95f723681949b8e7b408e4474b4d2ab6fc90c1ca497a3328c"
+    },
+    "output/执行方案清单.csv": {
+      "bytes": 23654,
+      "sha256": "19de8c0de1c5e707a3284d1c895b842c88085da954bf286d0c252d3258af1c52"
+    },
+    "output/百度百舸-用户截图/截屏2026-10-21 13.17.37.png": {
+      "bytes": 1364711,
+      "sha256": "c979b80a5175c4537575c3cf317d3faca7d1ded650240dd336fa7cdc968a8cd3"
+    },
+    "output/百度百舸-用户截图/截屏2026-10-21 13.17.45.png": {
+      "bytes": 1406027,
+      "sha256": "9df249815a060b80e8a17c019ec76453a55631c86e81421a45bb53dede8a7148"
+    },
+    "output/百度百舸-用户截图/截屏2026-10-21 13.18.38.png": {
+      "bytes": 1651193,
+      "sha256": "70cc2b77237ef5b2a18429b1ef6a95f40fc5289f2805be3c3e6af9e966e95401"
+    },
+    "output/百度百舸-用户截图/截屏2026-10-21 13.18.54.png": {
+      "bytes": 84485,
+      "sha256": "c663334a5a28ae9f59a865a631c8fe8058824be201f04895acf51e91231731b8"
+    },
+    "output/百度百舸-用户截图/截屏2026-10-21 13.18.57.png": {
+      "bytes": 884207,
+      "sha256": "a18c4c8112940b78dd29db34338361a352cc10e0051f8ce1ede33ad2b1682803"
+    },
+    "output/百度百舸-用户截图/截屏2026-10-21 13.19.13.png": {
+      "bytes": 808489,
+      "sha256": "7bf606ad0ec466c69ab504d41955020cb3acaf5d114d5f9635e21ee4e5b2d4cf"
+    },
+    "output/百度百舸-用户截图/截屏2026-10-21 13.19.40.png": {
+      "bytes": 436469,
+      "sha256": "0c0347bd4984cdee0516117c7755f8dea1f0fd5f888b9c7ac63d420dadda318f"
+    },
+    "output/百度百舸-用户截图/截屏2026-10-21 13.19.56.png": {
+      "bytes": 970597,
+      "sha256": "08528877af8633ca0ed12a10f29af3d718971616235aaf4844b5e1e28459ddb1"
+    },
+    "output/竞品侧边栏分析V3/assets/NVIDIA-Mission-Control-截图修订版_01.png": {
+      "bytes": 171476,
+      "sha256": "04765e3a6c9f0852b56c2c7922e750dc60083d837a83422dc6492fb0aa3f308e"
+    },
+    "output/竞品侧边栏分析V3/assets/NVIDIA-Mission-Control-截图修订版_04.png": {
+      "bytes": 51062,
+      "sha256": "75b6d4ad5baea1901fd259e2072d9d1d4a55c14c1d5ef3155b835ecb72a23a3a"
+    },
+    "output/竞品侧边栏分析V3/assets/aistation.png": {
+      "bytes": 152599,
+      "sha256": "29d966d0cbbf50b24d15047e7382a6eee20318dc9cbe4e8dd52d2f7c2922d8a4"
+    },
+    "output/竞品侧边栏分析V3/assets/baige-real.png": {
+      "bytes": 198892,
+      "sha256": "94bd813a02e861436139200203ca6e84709d9de7342267c2a2c0913b103bdced"
+    },
+    "output/竞品侧边栏分析V3/assets/gridview-7-产品截图_02.png": {
+      "bytes": 20911,
+      "sha256": "324db61fff7e1f20532bedc2a7723c5a359bb7c4488236c95d5e386117170e60"
+    },
+    "output/竞品侧边栏分析V3/assets/gridview-7-产品截图_06.png": {
+      "bytes": 23576,
+      "sha256": "30d57841a0129d55e5357f27270cf1a60beb9a51d783ad4d717c37137b51a727"
+    },
+    "output/竞品侧边栏分析V3/assets/h3c-unipod-addc-产品截图_01.png": {
+      "bytes": 349354,
+      "sha256": "6d40a9239239010623c97e373256acd55e223f711d8a4c725df7bae6dfe96806"
+    },
+    "output/竞品侧边栏分析V3/assets/h3c-unipod-addc-产品截图_04.png": {
+      "bytes": 21873,
+      "sha256": "fd9020c48f072ebc773cfc652f1486aaf4cf34c04e1a695c583af4663b8cf6b9"
+    },
+    "output/竞品侧边栏分析V3/assets/h3cbase.png": {
+      "bytes": 197494,
+      "sha256": "b9d7002bd57cef4853c0d9888a6a0cfe4489ad7bb7ab09ab658ac313eee63e54"
+    },
+    "output/竞品侧边栏分析V3/assets/mindcluster-ccae-产品截图_01.png": {
+      "bytes": 64231,
+      "sha256": "e6b23c35ee45249065f3d61ef1314e1c5d069712ba28320fac64d660ddc1e20d"
+    },
+    "output/竞品侧边栏分析V3/assets/mindcluster-ccae-产品截图_03.png": {
+      "bytes": 92495,
+      "sha256": "491b779df40d5e040bdc415d030f704e92637a20d3c307f0e09c4f267e6bdcc7"
+    },
+    "output/竞品侧边栏分析V3/assets/nvidia-mission-control-产品截图_02.png": {
+      "bytes": 317486,
+      "sha256": "725827c0ea5b43a8cc137c657659cd77138312cd0e26f688c21514fd44314f49"
+    },
+    "output/竞品侧边栏分析V3/assets/nvidia-mission-control-产品截图_05.png": {
+      "bytes": 372130,
+      "sha256": "d5077054caf9c485547506f16a536ef9fc15f440054fca2ef27b4fc49bb45a3a"
+    },
+    "output/竞品侧边栏分析V3/index.html": {
+      "bytes": 105335,
+      "sha256": "1b004bed86b019bd82173cb857ff50962d4cde3f3c88cb517a2414bd6317910f"
+    },
+    "output/竞品侧边栏补图/base-06.png": {
+      "bytes": 335338,
+      "sha256": "23c05d2dc4cbcec100ff7d414d007ecf0443c38e662ff144fb43844c2985d974"
+    },
+    "output/竞品侧边栏补图/base-07.png": {
+      "bytes": 280401,
+      "sha256": "795b638f929219b8daefbd982aae03ee0d0ce3c224808b037a03a6a9b012141f"
+    },
+    "output/竞品侧边栏补图/base-25.png": {
+      "bytes": 344322,
+      "sha256": "140b1cd1ff1375fb9c214bd76949853f2014731c671c009f707a7592afc81601"
+    },
+    "output/竞品图片预览/ahr-01.webp": {
+      "bytes": 13088,
+      "sha256": "b8879ebe74988e78701f4d337ee341a33c053efa0c1277ec3a0f054a5d348b9f"
+    },
+    "output/竞品图片预览/ahr-02.webp": {
+      "bytes": 33164,
+      "sha256": "342ff7a2338d00746cd992d56fd662b89dfe9e60843b58a592403c6bb0dd181c"
+    },
+    "output/竞品图片预览/ahr-03.webp": {
+      "bytes": 23146,
+      "sha256": "47006b60f3fa445bd4540d86226e2c5f6d8ace7891e94c895d9107842960a0b8"
+    },
+    "output/竞品图片预览/ahr-04.webp": {
+      "bytes": 13066,
+      "sha256": "a91c4df64f93aacf00d93d41924ea7e406e4623d852549e87227e98c166e598d"
+    },
+    "output/竞品图片预览/ahr-05.webp": {
+      "bytes": 29974,
+      "sha256": "0c6f00087ec5764e8ccfb51b48eea56dcd2cf40b5b96cac4059fd80f2f71d080"
+    },
+    "output/竞品图片预览/ahr-06.webp": {
+      "bytes": 25844,
+      "sha256": "e8dcc949e21e7213e6a421d8eaa854bf97ead3f3bde88ed5ebbab7107eaa3d7f"
+    },
+    "output/竞品图片预览/ahr-07.webp": {
+      "bytes": 27878,
+      "sha256": "f80812ede91193be5d141b1fa5c0e9f1a66b5f9161df23ffb33cd4cc8c893bb9"
+    },
+    "output/竞品图片预览/ahr-08.webp": {
+      "bytes": 17992,
+      "sha256": "11a2ef7bc1fd082bb5bc50a6155b69d9715691cd6937cefeb1ed8461731cf723"
+    },
+    "output/竞品图片预览/ahr-09.webp": {
+      "bytes": 17082,
+      "sha256": "fc431999db3fdba3f39dbb719d6403080cdede68b31b667f974314ac4a66b5f8"
+    },
+    "output/竞品图片预览/ahr-10.webp": {
+      "bytes": 50052,
+      "sha256": "eb45e1ac73d07480b7c64d630904a283970f769274dba9184ec7b0807e86453e"
+    },
+    "output/竞品图片预览/ahr-11.webp": {
+      "bytes": 48314,
+      "sha256": "1c6ab62d59f4748eea5e3356ab6f6e59a5c26e12d030d75f1718960032a04969"
+    },
+    "output/竞品图片预览/ahr-12.webp": {
+      "bytes": 20494,
+      "sha256": "37a738d6134d8c3888838f5b536983b11f787c91e7534a16643bfe39147d9506"
+    },
+    "output/竞品图片预览/ahr-13.webp": {
+      "bytes": 18552,
+      "sha256": "a441f5e70dd88d8563f647b75b6afbb4416cbf19dab3e276b34aab4e3373b621"
+    },
+    "output/竞品图片预览/ahr-14.webp": {
+      "bytes": 19196,
+      "sha256": "b00cfde057e43209681e1e45cb90f5d11517c23c6aad49f3d956b699860fb6c4"
+    },
+    "output/竞品图片预览/ahr-15.webp": {
+      "bytes": 22220,
+      "sha256": "1eba6cb0d8106ae6e78951d3fc7ac4ca04dccc131e18660e70664a198f8922ee"
+    },
+    "output/竞品图片预览/aistation-142.webp": {
+      "bytes": 22570,
+      "sha256": "c1f3c7ec0945b4e2d716dc2c6b8c5186d7b1f023415782bac9edf94ca555f504"
+    },
+    "output/竞品图片预览/aistation-150.webp": {
+      "bytes": 13890,
+      "sha256": "c470c65e5d354e7c475ea0440a0eb3b5d1d992e22bfd1c7792a7250cccdeeede"
+    },
+    "output/竞品图片预览/aistation-23.webp": {
+      "bytes": 23794,
+      "sha256": "b944c1ffe0b17bdc51cd0dbb1fccc4eb78d01117915e4363fefcb3c56c06d5bc"
+    },
+    "output/竞品图片预览/aistation-29.webp": {
+      "bytes": 23914,
+      "sha256": "dfef967daf37615226c3a590cca6ac9e134b2dbde746337dd72e47192e35c677"
+    },
+    "output/竞品图片预览/aistation-37.webp": {
+      "bytes": 25718,
+      "sha256": "bb5b662df7012b3b626df5dff460e812aee65d645a75b99782934d43f6bd5d81"
+    },
+    "output/竞品图片预览/aistation-64.webp": {
+      "bytes": 17488,
+      "sha256": "00c58c237a0c3dc299382d8305fe8b7736e4ee287d2591ba595d6f9e98288701"
+    },
+    "output/竞品图片预览/ajr-01.webp": {
+      "bytes": 13438,
+      "sha256": "3b9e2cbc34af46381bcc95d7d3a6cc9f8d922087ab4df318af3f73cb8c0a97e2"
+    },
+    "output/竞品图片预览/baidu-01.webp": {
+      "bytes": 25840,
+      "sha256": "d23676d6f124f0dfe67210a9706e99f1e939cf0dfa0c3296608e2cbcc58cca13"
+    },
+    "output/竞品图片预览/baidu-02.webp": {
+      "bytes": 16004,
+      "sha256": "6fa8abc4cacfe22c44a5db02282836e2f3fb4ee678d172eb7df1114fc16527f3"
+    },
+    "output/竞品图片预览/baidu-03.webp": {
+      "bytes": 16432,
+      "sha256": "189b644e17bacd5c7eee0a86db247b11b2c6918775e32babb65f1fccca4a2135"
+    },
+    "output/竞品图片预览/baidu-04.webp": {
+      "bytes": 19016,
+      "sha256": "0e87c90abde4279abac4fe2396a6ecb776dfc8986ac4ad963e33383671ba1edb"
+    },
+    "output/竞品图片预览/baidu-05.webp": {
+      "bytes": 13932,
+      "sha256": "30e64e8cae544e71495ab73e03dca8a7bdf8d7fe927adaab7a7bd3023342f4d2"
+    },
+    "output/竞品图片预览/baidu-06.webp": {
+      "bytes": 40546,
+      "sha256": "7e49dc71d4685c247ae4b4ea77ba59449fd9b307aeee4805cb94d7e66e99c223"
+    },
+    "output/竞品图片预览/baidu-07.webp": {
+      "bytes": 28198,
+      "sha256": "dc4541bdfd682153dce3f68f0eb83677904db638f7ccf47665926c18957150a8"
+    },
+    "output/竞品图片预览/baidu-08.webp": {
+      "bytes": 19334,
+      "sha256": "33f0052c690780abcee617f71c98e48fdd6fe867c9fe5d7c8cecc839e0e62e34"
+    },
+    "output/竞品图片预览/baidu-09.webp": {
+      "bytes": 17062,
+      "sha256": "d99e1116ed56a3c6c587b91b9ccf52a988b843c5ef446f391176b94e91ed2f17"
+    },
+    "output/竞品图片预览/baidu-10.webp": {
+      "bytes": 21226,
+      "sha256": "568b511d29fe4ea2f56bad47b0efce3f99b2d3aaef2c1c739b481662c302f1e2"
+    },
+    "output/竞品图片预览/baidu-11.webp": {
+      "bytes": 14122,
+      "sha256": "d62bfe3b1f3869199e4fccc07d8d2dffe6233be1da4178b6613de804e5733a86"
+    },
+    "output/竞品图片预览/baidu-12.webp": {
+      "bytes": 25184,
+      "sha256": "930498b9f923c0659dc770f20def3646f0b5c6e2c67309040a8a7281c74b8037"
+    },
+    "output/竞品图片预览/baidu-13.webp": {
+      "bytes": 19286,
+      "sha256": "3892209b9f8014d3637a88785254332b059cae520a018ff17146fb7627a71b7a"
+    },
+    "output/竞品图片预览/baidu-14.webp": {
+      "bytes": 6156,
+      "sha256": "add141235b8ef001bc82d75b32be9591352fe1ad3fbc36e3df82d6d7ddefde6a"
+    },
+    "output/竞品图片预览/baidu-15.webp": {
+      "bytes": 50062,
+      "sha256": "765d1fd3f0b16865e05538900e095438de218233b95ac01c229e8ebf8972b306"
+    },
+    "output/竞品图片预览/baidu-16.webp": {
+      "bytes": 14106,
+      "sha256": "ee7a7134f48ba9b48309a34eca861a678a09ed7bb1be2f72ff67d3a4940e5a91"
+    },
+    "output/竞品图片预览/baidu-17.webp": {
+      "bytes": 17004,
+      "sha256": "b2b4b6b7e3011dff33c7c1a79147bc5e5572fa56972c3096cdce6334f73df6e8"
+    },
+    "output/竞品图片预览/baidu-18.webp": {
+      "bytes": 18658,
+      "sha256": "6496bd09ac08a8f54b61b574df390f49ebad401d1e947ca6a4ccca2cc2ba6d19"
+    },
+    "output/竞品图片预览/baidu-19.webp": {
+      "bytes": 18516,
+      "sha256": "5a275f4178f7a6332fc7c4d02e66968d7023b859929862ee58a04723d1ac5537"
+    },
+    "output/竞品图片预览/baidu-20.webp": {
+      "bytes": 12396,
+      "sha256": "a0bba670a9fa43d0c95e2a32ba95f7ef8d3938af5d52afa3d2e00b2d5c58c5d7"
+    },
+    "output/竞品图片预览/baidu-21.webp": {
+      "bytes": 20804,
+      "sha256": "bc394038ba9b4095dc7912da763bcefe5c41a994491242ed3446936adbeb68bd"
+    },
+    "output/竞品图片预览/baidu-22.webp": {
+      "bytes": 16432,
+      "sha256": "a803a3bb6eacfacc1b7b5710d29be9540f7c76c3fc175c23348d779b36cc9632"
+    },
+    "output/竞品图片预览/baidu-23.webp": {
+      "bytes": 29564,
+      "sha256": "2356e3b53823b66c4ecaa8631a5f4498bbbe8f5a7875dfd7db4291c446889307"
+    },
+    "output/竞品图片预览/baidu-24.webp": {
+      "bytes": 20714,
+      "sha256": "5bd290fc856a35724ccda8f369849faff09c8204d47a88e5e52d445727297406"
+    },
+    "output/竞品图片预览/baidu-25.webp": {
+      "bytes": 12686,
+      "sha256": "94db1e92dd09161eaee5d5e20064f87c3e5a0dd9453b0b05ad1d77ecb71204ba"
+    },
+    "output/竞品图片预览/baidu-26.webp": {
+      "bytes": 6812,
+      "sha256": "319f26d785ece3669f487abdffceb4730fa0183ca6ced66c9dd064c2258d2b62"
+    },
+    "output/竞品图片预览/baidu-27.webp": {
+      "bytes": 7716,
+      "sha256": "4ba812f3dbe3ff5b8ea18cf05d44b71c043c3a25b170ad13d38d89ed9d4f4640"
+    },
+    "output/竞品图片预览/baidu-28.webp": {
+      "bytes": 9310,
+      "sha256": "e5e555341c843c137f94976cc7a09f532a3b8862672466d94095686a3f5f13e2"
+    },
+    "output/竞品图片预览/baidu-29.webp": {
+      "bytes": 15480,
+      "sha256": "86997cab5d2071c3ee97b0d020cf8f04f2ccebbcd5f6c764dde9c70243c7a6be"
+    },
+    "output/竞品图片预览/baidu-30.webp": {
+      "bytes": 18506,
+      "sha256": "c631e824dd5c6708611af1485c42f4a55cd144f876fabf531a751429844b455b"
+    },
+    "output/竞品图片预览/baidu-31.webp": {
+      "bytes": 32230,
+      "sha256": "d3ba0914504d0d8fd763c0a9e7eb96f4943c32a9d78c1922251e930cdaf6af8c"
+    },
+    "output/竞品图片预览/baidu-32.webp": {
+      "bytes": 26006,
+      "sha256": "47f588874582732b7572e8f8ad1a674cdd54258404ae2fd8f5bf632f9b5f94ee"
+    },
+    "output/竞品图片预览/base-05.webp": {
+      "bytes": 31956,
+      "sha256": "0c5c895939b867f508fd745ecdd21434a627d7b9875188a86ac1cb87085fa5f7"
+    },
+    "output/竞品图片预览/base-13.webp": {
+      "bytes": 21730,
+      "sha256": "ab128a76b07ca2505fc228084a6bb393680f6b2c7731fa36c74dff4c5db97d8a"
+    },
+    "output/竞品图片预览/base-extra-25.webp": {
+      "bytes": 20144,
+      "sha256": "3ae7df7eee25cef40ad4f2d45fb4f9441696249a5d812b3d7d9fb5ec4ba385d6"
+    },
+    "output/竞品图片预览/base-extra-6.webp": {
+      "bytes": 10608,
+      "sha256": "fb7ae3e08aa0346f9bbfb6469f694529831a59a3dc03fdbb20d69e6ffc0bfd9d"
+    },
+    "output/竞品图片预览/base-extra-7.webp": {
+      "bytes": 18080,
+      "sha256": "fceb63ad51a6eeab4a57cf837fe9b7f2b7e21ebaa213d4c18f34bb0d27f60c63"
+    },
+    "output/竞品图片预览/bcm-01.webp": {
+      "bytes": 78922,
+      "sha256": "ae257c4b0a6db3b7b25cb502bc9acb27a9f8938b275d0e4d48d06b432f6ef18d"
+    },
+    "output/竞品图片预览/bcm-02.webp": {
+      "bytes": 86656,
+      "sha256": "bd8c22a782e7efd87e492196e010bcbcdf3e94e897a4e007b44e1a4d4947fb59"
+    },
+    "output/竞品图片预览/bcm-03.webp": {
+      "bytes": 22242,
+      "sha256": "f041e198d82f245a6025a85fb081790296ac10c2f3df27392430b2213b77a82d"
+    },
+    "output/竞品图片预览/bcm-04.webp": {
+      "bytes": 30710,
+      "sha256": "c1b941028c71214787e40eec5e813a228c51c8114ed22d81387601b82f227075"
+    },
+    "output/竞品图片预览/dps-01.webp": {
+      "bytes": 13342,
+      "sha256": "14d0e224a1d5b7428e672f23f700c9765262046a3f93f1126fb7682dcfc76763"
+    },
+    "output/竞品图片预览/dps-02.webp": {
+      "bytes": 11066,
+      "sha256": "147ce42de04505b53085404f42b81c9479abbeaa16315b00e7d903a0ec1b30e6"
+    },
+    "output/竞品图片预览/dps-03.webp": {
+      "bytes": 24506,
+      "sha256": "cf403ab3eeaa0033840b79f83a17977c22fe6ed847a92a8086ec7e67c2e679a8"
+    },
+    "output/竞品图片预览/figma-44-1525.webp": {
+      "bytes": 33116,
+      "sha256": "05b6d09ecb4faed28dc4f19797b33441e002764fb798b74a64f8e272e4619318"
+    },
+    "output/竞品图片预览/figma-44-1529.webp": {
+      "bytes": 20468,
+      "sha256": "430578e5ad6f5903112cc70ab1f51f1cb40ec1183b2452f78185c1eb28f146e0"
+    },
+    "output/竞品图片预览/figma-44-1530.webp": {
+      "bytes": 48334,
+      "sha256": "7feaed0a92de99a72ab0cc47e3b9da71887aa48a8c28133a6ebcf7bc8d0c32e8"
+    },
+    "output/竞品图片预览/figma-44-1531.webp": {
+      "bytes": 49508,
+      "sha256": "def1c973b00ce9d9d1c2cb528bc7e9044ad422413ccec50cf0da7cd2ff4395e7"
+    },
+    "output/竞品图片预览/figma-44-1532.webp": {
+      "bytes": 18588,
+      "sha256": "80193e5dd4ddafe4ab301e2ab92ee64b0b9e10d31aab20ec734d737cf7ae6f41"
+    },
+    "output/竞品图片预览/figma-44-1534.webp": {
+      "bytes": 22186,
+      "sha256": "abe8a15530baca26a88c795a2a9d593e7559fd35b6476803367da225b6d2c7da"
+    },
+    "output/竞品图片预览/figma-44-1566.webp": {
+      "bytes": 22216,
+      "sha256": "600046384549d62963622605b519826e9854060162af041fd1d51b6afa4e9b40"
+    },
+    "output/竞品图片预览/figma-44-1567.webp": {
+      "bytes": 17918,
+      "sha256": "fc24ba0b2cd291eddf0993c08a5058bb779242d4345b886003110627ba54e1c4"
+    },
+    "output/竞品图片预览/figma-44-1568.webp": {
+      "bytes": 14470,
+      "sha256": "b9a285a8803e8281d3c6cc27be44f7a85846240fa3b32080c1fb9e31d53ae4d1"
+    },
+    "output/竞品图片预览/figma-44-1569.webp": {
+      "bytes": 25774,
+      "sha256": "1df34892742249e89de0a5db44c12f762feaafc64eac257fc58b1c84b9ed3eae"
+    },
+    "output/竞品图片预览/figma-44-1570.webp": {
+      "bytes": 17954,
+      "sha256": "51b7e5d27dc4d0db853607d0b3d532aea3cc1c1266d43d07cde941d8441fbb3c"
+    },
+    "output/竞品图片预览/figma-44-1571.webp": {
+      "bytes": 17036,
+      "sha256": "5b4e7d060e9e5b3aa225b7b7ee234f61a1aaa5765f7c63b3c94ff11a60606f22"
+    },
+    "output/竞品图片预览/figma-44-1572.webp": {
+      "bytes": 12170,
+      "sha256": "f83a9af43c453fce3ee968da4b0f096d155c0ca52442e5a919c4c051a736ed9a"
+    },
+    "output/竞品图片预览/figma-44-1573.webp": {
+      "bytes": 15114,
+      "sha256": "ae0513b9dcfcfa1221688199e920f7e90d08385dca0824cc680ee020188c6ea3"
+    },
+    "output/竞品图片预览/figma-44-1574.webp": {
+      "bytes": 27622,
+      "sha256": "e28e3f12233e083db7dacf55264b7d207515411be7e7a805992a1e0554d8cc35"
+    },
+    "output/竞品图片预览/figma-44-1575.webp": {
+      "bytes": 23240,
+      "sha256": "03fa0d949e28578672444c48f3e65bd56b7fc5da7f5cab3f49220368c5de4e94"
+    },
+    "output/竞品图片预览/figma-44-1576.webp": {
+      "bytes": 24350,
+      "sha256": "a983e3dceeee31b78d9a781df0f44fef4615c5681e72dd393c53c2b2a6b5a273"
+    },
+    "output/竞品图片预览/figma-44-1577.webp": {
+      "bytes": 29774,
+      "sha256": "e7653dc84de64362f26ca0e32f562ab2d804f12ff235ec460fce3b06dfe30cc5"
+    },
+    "output/竞品图片预览/figma-44-1578.webp": {
+      "bytes": 16788,
+      "sha256": "f401076cb5ad5c193b643ab0981ee5ca9d466e86a0a2f7efbf1bed625f3ba63a"
+    },
+    "output/竞品图片预览/figma-44-1579.webp": {
+      "bytes": 8072,
+      "sha256": "7a691f3de14afa670f9815bcdd1928098c4e5a95d935d6f51c41fe6abd0d254b"
+    },
+    "output/竞品图片预览/figma-44-1580.webp": {
+      "bytes": 13914,
+      "sha256": "2774a272adc6cd4e7607b0751eacda84609094f5aceda0de25bbda4da367c581"
+    },
+    "output/竞品图片预览/figma-44-1581.webp": {
+      "bytes": 4644,
+      "sha256": "ae9b13cf8209a9a208a2a13737d3591e1fcda2f15c1904f3162cd4aa69490649"
+    },
+    "output/竞品图片预览/gridview-01.webp": {
+      "bytes": 25988,
+      "sha256": "49181892163bee0175cbd8dc9993556ca3502f89069615c23dba78ae9aa03f93"
+    },
+    "output/竞品图片预览/gridview-02.webp": {
+      "bytes": 5848,
+      "sha256": "8dd867ae4f083d89f565f013d35a8981b8807b62ff9142b47eb42e5d59207c00"
+    },
+    "output/竞品图片预览/gridview-03.webp": {
+      "bytes": 15106,
+      "sha256": "47597ecffdbacd91cdbecb3ad8da330822d6958d4d0c445dbe0a993855b1c65a"
+    },
+    "output/竞品图片预览/gridview-04.webp": {
+      "bytes": 20838,
+      "sha256": "c4fad34620a6d148197838c6c34a899e77cec928bd15f9eec05fa0c591c359c8"
+    },
+    "output/竞品图片预览/gridview-05.webp": {
+      "bytes": 17492,
+      "sha256": "b32140120dc5723d58b890f4572fdc9a2c2374c2f0ca1c8674319cfb39eb1bb8"
+    },
+    "output/竞品图片预览/gridview-06.webp": {
+      "bytes": 6308,
+      "sha256": "0b9dac58e341e4aa8a7a60a8ff8591c95c37e4aa00da4a93aae62ccac83ada7b"
+    },
+    "output/竞品图片预览/gridview-07.webp": {
+      "bytes": 5412,
+      "sha256": "d2f00af8766af5ad8ac530f1d7a3d6e120683fb3d52fec79284335bdbefe629c"
+    },
+    "output/竞品图片预览/gridview-08.webp": {
+      "bytes": 14980,
+      "sha256": "2f79b397e8d25a6adaa895da42a65a95056943139c67e6b6d1b7f123950ed4f2"
+    },
+    "output/竞品图片预览/h3c-01.webp": {
+      "bytes": 25510,
+      "sha256": "1c8af257968a83df0043b38f7af36b4142a4bef52b98ad385c5147f94db268d9"
+    },
+    "output/竞品图片预览/h3c-02.webp": {
+      "bytes": 23496,
+      "sha256": "6acf31ac4ea6a271b814bf43b2498a1e00af941c5b7acce20035d74ca04d13ee"
+    },
+    "output/竞品图片预览/h3c-03.webp": {
+      "bytes": 29988,
+      "sha256": "46f8efb6c32c845613c04501bec5e541aa11a829b13905f3dc691f656b85b289"
+    },
+    "output/竞品图片预览/h3c-04.webp": {
+      "bytes": 9356,
+      "sha256": "e2d4819c4f4314f7ac408fd5b86436f9c918b674f97b9c62bd6dd48fbaa7f497"
+    },
+    "output/竞品图片预览/h3c-05.webp": {
+      "bytes": 15656,
+      "sha256": "361536ce1678e19b059d3566aee3bd4344ee0e02ca488407f8431c9e61b59d90"
+    },
+    "output/竞品图片预览/h3c-06.webp": {
+      "bytes": 19080,
+      "sha256": "5a6fe41a77f5f2e93eaedff1493ef1c06138c1c17ea51c44f057257b68bb4606"
+    },
+    "output/竞品图片预览/h3c-07.webp": {
+      "bytes": 37254,
+      "sha256": "1564207ea2711a389e597f51daeef8a0a1f4984bbc0fe8d64d70e2480f0290e3"
+    },
+    "output/竞品图片预览/h3c-08.webp": {
+      "bytes": 31652,
+      "sha256": "f1f9d64f9c12ed14adf2fa878b084c9dd510a2a8cd0babd081759ac925c5d9f9"
+    },
+    "output/竞品图片预览/h3c-09.webp": {
+      "bytes": 29550,
+      "sha256": "e516b70d832bcd29929d0fe3f1186eee2861ed5927fd9aed69140d7e08173fb3"
+    },
+    "output/竞品图片预览/h3c-10.webp": {
+      "bytes": 20494,
+      "sha256": "1ed8fc72dad04530eeba35bdb32266172d5fb1938738cd65bf612fa9f672bed1"
+    },
+    "output/竞品图片预览/h3c-11.webp": {
+      "bytes": 43956,
+      "sha256": "1928b3fd946a849e9063294755da46c9ad0cbfd1315d60f081c45cb4de697e75"
+    },
+    "output/竞品图片预览/h3c-12.webp": {
+      "bytes": 29902,
+      "sha256": "ad050e26d7a27302382c97c571486f1111daf3e64ab440f34498bdd212564c5b"
+    },
+    "output/竞品图片预览/h3c-13.webp": {
+      "bytes": 27658,
+      "sha256": "1ade825185c58827de41a6d44391ce853a661b0f2d1c2b2a02010a9a76865bf8"
+    },
+    "output/竞品图片预览/h3c-14.webp": {
+      "bytes": 12196,
+      "sha256": "ef556fd113df470ae70b5498aef6986a83cb7c857c327dcf4bad9cab0a2aae86"
+    },
+    "output/竞品图片预览/h3c-15.webp": {
+      "bytes": 14564,
+      "sha256": "eb3fbfa88dfa34b0b80586d41ea26223e9aeda0ecb3bc0e3c680740b28101f41"
+    },
+    "output/竞品图片预览/h3c-16.webp": {
+      "bytes": 17166,
+      "sha256": "a6066091f315ab8a1c6ef710cf83721e272fd6ba2a78de065eef6ed764c66f8a"
+    },
+    "output/竞品图片预览/h3c-17.webp": {
+      "bytes": 28056,
+      "sha256": "e83241dc8f40ad4cb40b1b4780771a917a9c410fff5d027c5fdd21bb065267e5"
+    },
+    "output/竞品图片预览/huawei-01.webp": {
+      "bytes": 7980,
+      "sha256": "2535a6ca864f8b7de7b588207edc1c2f4bd759fe2b5083d2a56c70261cad4a22"
+    },
+    "output/竞品图片预览/huawei-02.webp": {
+      "bytes": 6568,
+      "sha256": "690103452eb968699f44044dec7b3b32a9483832da766c6235d2eafc3db55a3f"
+    },
+    "output/竞品图片预览/huawei-03.webp": {
+      "bytes": 12724,
+      "sha256": "e883ce55dbc5bba42d7cefcbbb0dedf1ca39030762a74de66c4a9b73633f9041"
+    },
+    "output/竞品图片预览/huawei-04.webp": {
+      "bytes": 9758,
+      "sha256": "b9f417778b566bbea9d95bb3af74f960012cfafb8c93e3476047f6f76a55f064"
+    },
+    "output/竞品图片预览/huawei-05.webp": {
+      "bytes": 31410,
+      "sha256": "bce74553ecfcbaee91d9ce1bbde4f6e61ca396811344759992716407c4c22312"
+    },
+    "output/竞品图片预览/huawei-06.webp": {
+      "bytes": 26938,
+      "sha256": "212192bc7e5082f6b9c7499ffe8032dec3ad42f5617db0770ad1593e7616c109"
+    },
+    "output/竞品图片预览/huawei-07.webp": {
+      "bytes": 22044,
+      "sha256": "5b591d1d045cd767a15f7518e8a37b495b2014b2bf90553a706c6994b69934ef"
+    },
+    "output/竞品图片预览/huawei-08.webp": {
+      "bytes": 13006,
+      "sha256": "bce426c5e5d2f29e2a1872eacb1062cbfbf06543176ae183fa1760e3115b32e5"
+    },
+    "output/竞品图片预览/huawei-09.webp": {
+      "bytes": 9294,
+      "sha256": "99dbdc606cd35f2997990a17f64032b2acc02a6df427833438653bba7d00fed3"
+    },
+    "output/竞品图片预览/huawei-10.webp": {
+      "bytes": 40894,
+      "sha256": "3dbfb8746bc98e30261e959f7396573c2acf6ac076d9fc7f8d6d1f6b5ea2570e"
+    },
+    "output/竞品图片预览/huawei-11.webp": {
+      "bytes": 33990,
+      "sha256": "ad993f9d5ab9ffe92a989205671d39d48b026f855aa15252d3335a01186fa6be"
+    },
+    "output/竞品图片预览/huawei-12.webp": {
+      "bytes": 38732,
+      "sha256": "51a5ea13ff9137cb9107d78d472a5ce617b63e7e4467ee4a490bd95a27b49fce"
+    },
+    "output/竞品图片预览/huawei-13.webp": {
+      "bytes": 39684,
+      "sha256": "9a55fd0877c0b279cfda04d9a3b6fb24c35ee36c8c8fd7773515f1409da6d2e8"
+    },
+    "output/竞品图片预览/runai-01.webp": {
+      "bytes": 24930,
+      "sha256": "3429d7e626797c9e41b59e1c26bf421ebf3904273f54ed432d1aa14b90fab4af"
+    },
+    "output/竞品图片预览/runai-02.webp": {
+      "bytes": 11906,
+      "sha256": "67828353ad9cccffbbb1c8d90071eb5ba4b282f3cf255217ad1560ed54cb9926"
+    },
+    "output/竞品图片预览/runai-03.webp": {
+      "bytes": 14686,
+      "sha256": "4177b86f239f5c2a615ede24bb7c8462db895059ef35d19a5bb4764284ad98a6"
+    },
+    "output/竞品图片预览/runai-04.webp": {
+      "bytes": 25870,
+      "sha256": "93680d708974b110a5ed85676601459a311662f924c869e7d7a5f9918713ab1b"
+    },
+    "output/竞品图片预览/runai-05.webp": {
+      "bytes": 12846,
+      "sha256": "cc8133442547289bf8b24c87f750968c1ae6863d5d4c55ccade67686e4430d40"
+    },
+    "output/竞品图片预览/sothis-03.webp": {
+      "bytes": 42740,
+      "sha256": "7c9acc85650db37c17772bc7b51be12b129294e16eba71c9bd927ece6f4293f7"
+    },
+    "output/竞品图片预览/sothis-04.webp": {
+      "bytes": 36426,
+      "sha256": "8dd792414fff545d30dda2c612b0ac1079b4b3c2ef14aa3853db60ead6cd7ced"
+    },
+    "output/竞品图片预览/sothis-05.webp": {
+      "bytes": 40954,
+      "sha256": "7535ca5203332f9315deb14b77762dad4568b1e58e2cf37e9810210e396184de"
+    },
+    "output/竞品图片预览/sothis-06.webp": {
+      "bytes": 39458,
+      "sha256": "dff31208b6e3a39eef8d2f5f545ab09ab5445ac23774cd68c14d7303adaf8c5b"
+    },
+    "output/竞品图片预览/sothis-07.webp": {
+      "bytes": 55380,
+      "sha256": "3b8ebce6998e295df950e2afce33edeb815079a25051b06764b5bdc28218fef6"
+    },
+    "output/竞品图片预览/sothis-09.webp": {
+      "bytes": 35184,
+      "sha256": "34378d89961c3ffb516b1f85f29c8ca41a878f1aeccb6bd0bfe67fa1138a9eb7"
+    },
+    "output/竞品图片预览/sothis-10.webp": {
+      "bytes": 41768,
+      "sha256": "557986cfe9ada1394d1b3aa8feeed0455956628be21c8ebe8dc658bbff087153"
+    },
+    "output/竞品图片预览/sothis-11.webp": {
+      "bytes": 48778,
+      "sha256": "634bb8f5ec8c34e7ffbbe31675826044bdf22c5546aa4e051bb29e0f320a367f"
+    },
+    "output/竞品图片预览/sothis-12.webp": {
+      "bytes": 38922,
+      "sha256": "6175b5b5f4650c306abf0c32db62b3bac0fe0c932012e01c8211f99f47c1dd6f"
+    },
+    "output/竞品图片预览/sothis-13.webp": {
+      "bytes": 41962,
+      "sha256": "4e473673a3edd1a85071ebfe343b6dcf78710ab042b9b0078717992e76afc461"
+    },
+    "output/竞品图片预览/sothis-14.webp": {
+      "bytes": 41102,
+      "sha256": "0e45b40929bcc300ae36d6b914a9ddd7745ad898df44143ec00faebc1d130c5f"
+    },
+    "output/竞品图片预览/sothis-15.webp": {
+      "bytes": 48224,
+      "sha256": "2d9ba0aff51d0c5e7e11e45b0b1364e021eee6f4b254cb6eeed4790b4fc3ce20"
+    },
+    "output/竞品图片预览/sothis-16.webp": {
+      "bytes": 44970,
+      "sha256": "56d328c229113cd346e7f57a80f46eaf219c9c5ef37ecf836ebc751c2767f4f3"
+    },
+    "output/竞品图片预览/sothis-18.webp": {
+      "bytes": 53488,
+      "sha256": "5b2d8f8674496fcde70a65a301778b2bb0561918217ef39a7349373d7c84b894"
+    },
+    "output/竞品图片预览/sothis-19.webp": {
+      "bytes": 35946,
+      "sha256": "8fee2ca62e2017b0467ea50f444584ecb912b2f486fe44172bb1f4e6c5e33879"
+    },
+    "output/竞品图片预览/sothis-20.webp": {
+      "bytes": 38080,
+      "sha256": "1d15640ccb95504fcfb5e05d3ce9c134f19233bf744ee0246c047fdbe4fd4ce5"
+    },
+    "output/竞品图片预览/sothis-21.webp": {
+      "bytes": 36248,
+      "sha256": "e66e511655a313e055afe568b3ef55fc2c8cfc0df47120de81713c426f63296c"
+    },
+    "output/竞品图片预览/sothis-22.webp": {
+      "bytes": 50714,
+      "sha256": "f5f41448f971e4f9e6864f8ef373e814a7dbce035db86b99ca27300914c220dd"
+    },
+    "output/竞品图片预览/sothis-23.webp": {
+      "bytes": 40620,
+      "sha256": "bd7a5a7479005eccca91b77669ba74f3bfcc93d939bc61150b2ca690d0debe3c"
+    },
+    "output/竞品图片预览/sothis-25.webp": {
+      "bytes": 51882,
+      "sha256": "598717b09c3cb127f1eb015c894f013506c7453cfded6cd1aa5ae4d68a67ae66"
+    },
+    "output/竞品图片预览/sothis-26.webp": {
+      "bytes": 39928,
+      "sha256": "4b23edbaf8e192db688a1e675556310171384a1c9cb15a6d1db8dddd142e08e5"
+    },
+    "output/竞品图片预览/sothis-27.webp": {
+      "bytes": 53718,
+      "sha256": "80b63d446188550c6bff72d9f30fbe02eb4f0c9a5b3a6bb882c1c2ec6aae65fd"
+    },
+    "output/竞品图片预览/sothis-28.webp": {
+      "bytes": 51670,
+      "sha256": "d52c1842ea9d3f275171ba263d54acb6291e5585342e71cf00139bdd0be132db"
+    },
+    "output/竞品图片预览/sothis-30.webp": {
+      "bytes": 61154,
+      "sha256": "9922e0716f340e6fb2ff84d36251be121ff5e6d5a0d68810a895c1780d770296"
+    },
+    "output/竞品图片预览/sothis-31.webp": {
+      "bytes": 50624,
+      "sha256": "6046905c0af20470ca423582a699852138644effdc7fcb514962639d0e728aba"
+    },
+    "output/竞品图片预览/sothis-32.webp": {
+      "bytes": 51064,
+      "sha256": "282fafde58ff22f1d792935da3e0f53e8765bf78b219a73718b754e3ed833ed3"
+    },
+    "output/竞品图片预览/sothis-33.webp": {
+      "bytes": 63274,
+      "sha256": "7102e2ec5598f84fa32194da53adeb8ecb11036da6d1ab8be559fc35ca8a28f5"
+    },
+    "output/竞品图片预览/sothis-34.webp": {
+      "bytes": 62636,
+      "sha256": "6307cbafa3db13d5442925b79b6a95a66eaa8b4bedcfde49206675c43a0d3b05"
+    },
+    "output/竞品图片预览/sothis-35.webp": {
+      "bytes": 53992,
+      "sha256": "a64e036a216d7299068f85114f54a8b7083ebf4796110c6f385711f538cf92f3"
+    },
+    "output/竞品截图证据索引.json": {
+      "bytes": 243322,
+      "sha256": "b6f0660c47b7d8de7085d4115dcd255ec61be6d62079e18fd521af5eb454bc67"
+    },
+    "output/竞品结论与设计洞察V2.html": {
+      "bytes": 57754,
+      "sha256": "d02e194ee7632714a60df7ae77a4c63634cfbb99a07a6c5c139832345d3362f0"
+    },
+    "output/竞品补充截图/AIStation/P023.png": {
+      "bytes": 235397,
+      "sha256": "5d835512d09b415a1eb38ae769b07cfe6a914ccb265116e821ccf90b38ce547f"
+    },
+    "output/竞品补充截图/AIStation/P029-训练配置.png": {
+      "bytes": 327637,
+      "sha256": "3af9b1f31549ba9e52ea3414d2b3443c702d3c9a87cd8f0ab7563b47a0bb3bf3"
+    },
+    "output/竞品补充截图/AIStation/P037.png": {
+      "bytes": 282593,
+      "sha256": "1fb70c636d70bd68a7395a711090f407c7a83d0e92e99db1b146fe4953cf2171"
+    },
+    "output/竞品补充截图/AIStation/P064.png": {
+      "bytes": 203861,
+      "sha256": "068d15c289e1fb49cc5f6b06561ace055e8f50a42a4357c202efb75d3ec103c0"
+    },
+    "output/竞品补充截图/AIStation/P142.png": {
+      "bytes": 242875,
+      "sha256": "ea596c150b73426a98a3e62f646c7bb74a8fd2a937c75eeca9800913fe700f80"
+    },
+    "output/竞品补充截图/AIStation/P150.png": {
+      "bytes": 137963,
+      "sha256": "f66c9b35c613c733ba24b941b6ae476078f606b87184af10282db0f23f3b8ff6"
+    },
+    "output/竞品补充截图/H3C灵犀Base/P005-角色与范围.png": {
+      "bytes": 183321,
+      "sha256": "6ac955175457e4d05ebae34da0d67b671695757f5543c41fc57dce3d822047b6"
+    },
+    "output/竞品补充截图/H3C灵犀Base/P013-租户用户管理.png": {
+      "bytes": 129658,
+      "sha256": "34b7bcfc378b01a3d69136c31fc3a4824a47c5454905a99b8d4d0a5db3678022"
+    },
+    "output/竞品补充截图/SothisAI/P03.png": {
+      "bytes": 596712,
+      "sha256": "cc4d4df5042e530802d31bb7f61f092e3efa920de6b48595361d48d82d090e72"
+    },
+    "output/竞品补充截图/SothisAI/P04.png": {
+      "bytes": 290403,
+      "sha256": "c7613e165569ce9d8c8c2c396129bc420203617b0fda8f8f7bc8e0660569c9ad"
+    },
+    "output/竞品补充截图/SothisAI/P05.png": {
+      "bytes": 824821,
+      "sha256": "45296cc09fcd866bf9183efac2c9453728e62a2c9b000c9fa119925e0191be5b"
+    },
+    "output/竞品补充截图/SothisAI/P06.png": {
+      "bytes": 798264,
+      "sha256": "d354fc3078ad40dc2aa2d4a66d8012a041c53a1a82e46992d6248effc6a0d2bd"
+    },
+    "output/竞品补充截图/SothisAI/P07.png": {
+      "bytes": 680884,
+      "sha256": "13fa66708159f8e63e9dc59476416f40ec1842c95b42ff1189146b09da7d1e6f"
+    },
+    "output/竞品补充截图/SothisAI/P09.png": {
+      "bytes": 789262,
+      "sha256": "89f8189a0be75250b434e603a85b98093603facb7af15dc48f9648ba14a2c53b"
+    },
+    "output/竞品补充截图/SothisAI/P10.png": {
+      "bytes": 769451,
+      "sha256": "9ecf1d72c76b18e8c19f682fdde90b8f034a0134828a643d887f55a39c2fddad"
+    },
+    "output/竞品补充截图/SothisAI/P11.png": {
+      "bytes": 1370281,
+      "sha256": "6bf3872a8a62ce8bf6862142286ac2c5fe20350db24c6952a373ca8ac4a98b32"
+    },
+    "output/竞品补充截图/SothisAI/P12.png": {
+      "bytes": 989705,
+      "sha256": "e299a9d6de17884cbf9ae1151a67090599c35f743ffb3175ccdad04b03f0705b"
+    },
+    "output/竞品补充截图/SothisAI/P13.png": {
+      "bytes": 648804,
+      "sha256": "56eb3fc6721da4fe8218aa1e23a2f7dbf61588ac4ee2a651ee40a75a79366187"
+    },
+    "output/竞品补充截图/SothisAI/P14.png": {
+      "bytes": 1313080,
+      "sha256": "2c1059c28c8f6ec6796f4d8c2f8591e6bed84ec38243abf993f68387a1208a8b"
+    },
+    "output/竞品补充截图/SothisAI/P15.png": {
+      "bytes": 774818,
+      "sha256": "b8506e634e90613f9a2fa3dabb3e03f37950e2e804b8bf34f3b2b8630b3c1925"
+    },
+    "output/竞品补充截图/SothisAI/P16.png": {
+      "bytes": 1125962,
+      "sha256": "cdc8ab26f1b39c6c87c89e9e41bcf5fe597ac300afc99ac2d905050011998ae3"
+    },
+    "output/竞品补充截图/SothisAI/P18.png": {
+      "bytes": 558957,
+      "sha256": "5e7248201d5b7e076d993cc58d47438dc8a3a077f3eaaee59726d7cbeda2160c"
+    },
+    "output/竞品补充截图/SothisAI/P19.png": {
+      "bytes": 468187,
+      "sha256": "699fdf6b03758646df22d8920ff9c4f271cb88dfc1f9c24ee3ea2c476b3df464"
+    },
+    "output/竞品补充截图/SothisAI/P20.png": {
+      "bytes": 465212,
+      "sha256": "9bd5c4666fd0078436316a332c833cae15252a997d85fedd9bc38026e4f9e310"
+    },
+    "output/竞品补充截图/SothisAI/P21.png": {
+      "bytes": 703515,
+      "sha256": "f66d09bd99d4edfc5023eccbf691fdd86be7f86635905f5cdc0696945a2107f3"
+    },
+    "output/竞品补充截图/SothisAI/P22.png": {
+      "bytes": 1430060,
+      "sha256": "ee04bc9ce332272372c30ff2a532b8eacda76c93d522ef0b62b326f1cec139b5"
+    },
+    "output/竞品补充截图/SothisAI/P23.png": {
+      "bytes": 1163983,
+      "sha256": "2b51027425834007cacbf56ed0d95b3bf73331ffe78b95fa718d273e54f24468"
+    },
+    "output/竞品补充截图/SothisAI/P25.png": {
+      "bytes": 942752,
+      "sha256": "87dd77e3ffc213162ec98d27e6b2b885c9f77dce5ed0ea5555f0e9f4f3794f60"
+    },
+    "output/竞品补充截图/SothisAI/P26.png": {
+      "bytes": 1046356,
+      "sha256": "43fb98dfd1b656d454a97cfd2a4a7ea5a28c6e4fdce8723761a82e75c5e180a8"
+    },
+    "output/竞品补充截图/SothisAI/P27.png": {
+      "bytes": 1266432,
+      "sha256": "c7d6c8c201dae5692c9718c68c5af386a6b7ac825bf2462b56aeb7227eccf375"
+    },
+    "output/竞品补充截图/SothisAI/P28.png": {
+      "bytes": 421761,
+      "sha256": "37c119e8308a23c86a2cd5a355e8b4bc07de5819f687329a25e131f39c5a5eb6"
+    },
+    "output/竞品补充截图/SothisAI/P30.png": {
+      "bytes": 1217587,
+      "sha256": "ae6c15d9b252dd1069724d4452536e6afb9f2153615484f104e73ae0c43a3357"
+    },
+    "output/竞品补充截图/SothisAI/P31.png": {
+      "bytes": 772283,
+      "sha256": "7290cf9b90eaf5ae099c970847980ddd01e41c1e7402ca64d2c84c3a51e9c75d"
+    },
+    "output/竞品补充截图/SothisAI/P32.png": {
+      "bytes": 662891,
+      "sha256": "95e28522895f473a166c8386e361cc7bd5382540fdbb11717c7ed2b11397582b"
+    },
+    "output/竞品补充截图/SothisAI/P33.png": {
+      "bytes": 1651823,
+      "sha256": "0707dd832302aae6051b2f99520056a1e99cf66ddb45feba9d4b3b4f943dc61c"
+    },
+    "output/竞品补充截图/SothisAI/P34.png": {
+      "bytes": 1233810,
+      "sha256": "8192eea8062117f9ba0cd0b78d981f2d72b857fb4f8b4ca3aa99f3569c04c95c"
+    },
+    "output/竞品补充截图/SothisAI/P35.png": {
+      "bytes": 1406362,
+      "sha256": "fb464ff7a2379acfe31cb30c6eb7975b8e1a613f363c0deae25b3d5653058b01"
+    },
+    "output/角色页面功能清单.csv": {
+      "bytes": 28800,
+      "sha256": "0c543acef3405d9d40d9e6eb1c74bbeae0d83f3f47bb4c2c47f3721cc698a152"
+    },
+    "output/角色页面功能清单.json": {
+      "bytes": 110789,
+      "sha256": "fef3bd819e261ed1b0f56dac44e6d12c84df82e2c7e57b46ad10266cc9d018d8"
+    },
+    "output/设计产出.json": {
+      "bytes": 186910,
+      "sha256": "6e908a29082714e579b4994f798ad507dced48ef18b57b6e5fdbeae38f23296f"
+    },
+    "output/设计产出.md": {
+      "bytes": 120535,
+      "sha256": "f7fb4fe4ad280324d17bbc2bd9fa17333e1e1dc8b76b23922f5cbb725d1c41ab"
+    },
+    "output/设计策略.md": {
+      "bytes": 47048,
+      "sha256": "654e9c77c131b33a6342bfe3e346eb667f032e642dfb8388936ddd5d928266cd"
+    },
+    "output/设计策略清单.csv": {
+      "bytes": 10921,
+      "sha256": "1d9410bcf9334ab5c4ef67e79a88fcd0558cfc20ecab177f314a2a977162fb2a"
+    },
+    "output/超节点平台竞争分析.html": {
+      "bytes": 4466489,
+      "sha256": "f9dde719d309b8eeeb6b56b828fe05755bacf8485ec11901e5ec2a174c8f47f0"
+    },
+    "output/超节点平台竞争分析.md": {
+      "bytes": 167394,
+      "sha256": "e10e2bfffad59a4524717dec7b3002d23cf7985d860c0535ba71a2bc7e18c1ef"
+    },
+    "output/软件业务全景.csv": {
+      "bytes": 33165,
+      "sha256": "61a319a644586e303c88200ab578ac8f7b403abfa2092c12cbe1c38ab9a3157a"
+    },
+    "参考资料/NVIDIA-Mission-Control-截图修订版/components/ajr/screenshots/01-作业恢复驾驶舱.png": {
+      "bytes": 137562,
+      "sha256": "a2e5ed7c0a082b3ef02045a31b4923d8cd4916f923b1a718ccef8e13af368320"
+    },
+    "参考资料/NVIDIA-Mission-Control-截图修订版/components/bcm/screenshots/01-漏液事件追踪.png": {
+      "bytes": 353210,
+      "sha256": "b38b8f9afa4d295f013e7f43efca2e11686956436bc0904fdf59acb3012606fd"
+    },
+    "参考资料/NVIDIA-Mission-Control-截图修订版/components/bcm/screenshots/02-漏液与隔离状态监控.png": {
+      "bytes": 495006,
+      "sha256": "09e569ec4ed00a3cff2e717e5e86fab40164b04f0052ea48cb90298bdbf333ae"
+    },
+    "参考资料/NVIDIA-Mission-Control-截图修订版/components/bcm/screenshots/03-按工作负载选择GPU功耗档位.png": {
+      "bytes": 251290,
+      "sha256": "baa8d0493771ef826a14d3ba958e5c188890bcb8990ccc5b139feb3deaae98d0"
+    },
+    "参考资料/NVIDIA-Mission-Control-截图修订版/components/bcm/screenshots/04-集群用户与分组.png": {
+      "bytes": 547187,
+      "sha256": "ca9f7fc26094da70ad3cbbdc08caaa35296a64be87a6213d9234f285b6df2e86"
+    },
+    "参考资料/NVIDIA-Mission-Control-截图修订版/components/dps/screenshots/01-电力策略与资源组总览.jpeg": {
+      "bytes": 76585,
+      "sha256": "4a41e986ba9a70f08514892cf98d104c6f54f9c51867651b46a711bd1997b813"
+    },
+    "参考资料/NVIDIA-Mission-Control-截图修订版/components/dps/screenshots/02-电力策略编辑示例.png": {
+      "bytes": 92682,
+      "sha256": "0d6b52afb9e4231afaa4d4dd96ac7ec64e93f0ea94cf88f579528bbbcaa10a95"
+    },
+    "参考资料/NVIDIA-Mission-Control-截图修订版/components/dps/screenshots/03-电力分配拓扑编辑示例.png": {
+      "bytes": 162170,
+      "sha256": "d6202910b8c9f9bf2b89ad35fd04dee16be0a92605704f81d4326993693b5ebf"
+    },
+    "参考资料/NVIDIA-Mission-Control-截图修订版/components/runai/screenshots/01-GPU 与工作负载运行总览.png": {
+      "bytes": 317486,
+      "sha256": "725827c0ea5b43a8cc137c657659cd77138312cd0e26f688c21514fd44314f49"
+    },
+    "参考资料/NVIDIA-Mission-Control-截图修订版/components/runai/screenshots/02-项目与资源配额.png": {
+      "bytes": 198397,
+      "sha256": "b19f37757df9680700be2a8e4658fa4f081308a1d9fcae2d91930845e75d7612"
+    },
+    "参考资料/NVIDIA-Mission-Control-截图修订版/components/runai/screenshots/03-可复用的算力规格与 GPU 细分.png": {
+      "bytes": 229526,
+      "sha256": "28d1c8294eab2cff987523f4355c4445a0d6158b29e1df1e5106068d50324e99"
+    },
+    "参考资料/NVIDIA-Mission-Control-截图修订版/components/runai/screenshots/04-工作负载统一入口与生命周期.png": {
+      "bytes": 372130,
+      "sha256": "d5077054caf9c485547506f16a536ef9fc15f440054fca2ef27b4fc49bb45a3a"
+    },
+    "参考资料/NVIDIA-Mission-Control-截图修订版/components/runai/screenshots/05-资源消耗报告与导出.png": {
+      "bytes": 215054,
+      "sha256": "f272f06d8c285fc0672783f04263febf611704c666268eca13beb128c64e71f3"
+    },
+    "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/01-运维首页总览.png": {
+      "bytes": 171476,
+      "sha256": "04765e3a6c9f0852b56c2c7922e750dc60083d837a83422dc6492fb0aa3f308e"
+    },
+    "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/02-资源详情与运行历史.png": {
+      "bytes": 391176,
+      "sha256": "02b6edfe4a574357e1d1d7a9229d8264e0f9d119f400f121d53cf1af922d0546"
+    },
+    "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/03-基线验证流程编排.png": {
+      "bytes": 156571,
+      "sha256": "75ed05f824401dbf67f5dad9e0356f18de80035811460dc80157889faae332bb"
+    },
+    "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/04-运维流程执行与编辑权限.png": {
+      "bytes": 51062,
+      "sha256": "75b6d4ad5baea1901fd259e2072d9d1d4a55c14c1d5ef3155b835ecb72a23a3a"
+    },
+    "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/05-运行记录与状态.png": {
+      "bytes": 199020,
+      "sha256": "5ab2d5156a9a732fcc546ce0b81d80d614040ae2ee12b5dc55aa139cf12badd1"
+    },
+    "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/06-自动修复执行详情.png": {
+      "bytes": 170317,
+      "sha256": "5b566cd66aaeb33484cfadd078fffb08dd7c1a0cfcdba46d210c7bf402a36b0c"
+    },
+    "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/07-节点验证结果矩阵.png": {
+      "bytes": 143226,
+      "sha256": "919cf23f43a0912c2834a7af32807214b24457ded49ced76beb42544de4a5d23"
+    },
+    "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/08-已发布的验收报告.png": {
+      "bytes": 272810,
+      "sha256": "593a442b786531c6795fa934e39d0552e15380fe604365e8f5ce9b4a1e76eb43"
+    },
+    "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/09-失败结果下钻.png": {
+      "bytes": 108680,
+      "sha256": "fd25361ad7a6c43d471161c991e48d927802934f4e337a6640eda1941c43750e"
+    },
+    "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/10-节点诊断日志.png": {
+      "bytes": 276153,
+      "sha256": "074ae007edb779f665822a38fab664c32a483d1af42edb0437afa8621ea181cc"
+    },
+    "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/11-活跃告警中心.png": {
+      "bytes": 310297,
+      "sha256": "893ee663bbdb7fb33ed82d9a14c1bd8336638abbd0adf3da55a5f3d40f9a8bfc"
+    },
+    "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/12-告警规则与自动动作.png": {
+      "bytes": 153746,
+      "sha256": "e1931f28c22417ae8cd7c753efa26c82d45ef945d68762d54b8a8457c8ad0337"
+    },
+    "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/13-告警时间线与调查.png": {
+      "bytes": 142589,
+      "sha256": "e3ccde22298b8abe36b20e7551026ad18e8bcedab6bedc6e1b33400b80b03f8e"
+    },
+    "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/14-固件升级流程库.png": {
+      "bytes": 129203,
+      "sha256": "89a1318b533120dd7bf548dba225bc0f8b7aa2cf467d3d8075516a6c3ca06f15"
+    },
+    "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/15-硬件更换后恢复验证.png": {
+      "bytes": 334718,
+      "sha256": "c8d274314e899721753593d8f5c581e6c171f84afa042efb444943444b95c2c6"
+    },
+    "参考资料/gridview-7-产品截图/screenshots/01-芯片级监控.png": {
+      "bytes": 204295,
+      "sha256": "9e65c8fdea94608dc68a37de5ba5eb6dc78f12438b465e9bbe245eca96995275"
+    },
+    "参考资料/gridview-7-产品截图/screenshots/02-节点级监控.png": {
+      "bytes": 20911,
+      "sha256": "324db61fff7e1f20532bedc2a7723c5a359bb7c4488236c95d5e386117170e60"
+    },
+    "参考资料/gridview-7-产品截图/screenshots/03-集群级监控.png": {
+      "bytes": 104806,
+      "sha256": "94f287f60304f55bb9c4db70ab6be8199748b0acaa101913e83305f318c89e36"
+    },
+    "参考资料/gridview-7-产品截图/screenshots/04-存储监控.png": {
+      "bytes": 159638,
+      "sha256": "bb290eadd7f21e1f3218dd863a5c91a1d6248460949ee5dfbc9d8caf73106e1e"
+    },
+    "参考资料/gridview-7-产品截图/screenshots/05-网络监控.png": {
+      "bytes": 135934,
+      "sha256": "0a5244c478a3082c265c1f5f5f81f062c90393b73b9ab6bb0fc4bb7e8524aa26"
+    },
+    "参考资料/gridview-7-产品截图/screenshots/06-作业监控.png": {
+      "bytes": 23576,
+      "sha256": "30d57841a0129d55e5357f27270cf1a60beb9a51d783ad4d717c37137b51a727"
+    },
+    "参考资料/gridview-7-产品截图/screenshots/07-材料计算的软件与资源确认.png": {
+      "bytes": 18518,
+      "sha256": "4cef1b1e6e607ffd934c2bc878e5f2a229917b715013fcb828235cc0f5ecc3e9"
+    },
+    "参考资料/gridview-7-产品截图/screenshots/08-材料计算的文件与结果报告.png": {
+      "bytes": 58900,
+      "sha256": "5cf0ba8841a4690a01c89d4f12bd5150dbb239d7ff41ac576ad0dc1ece410fc0"
+    },
+    "参考资料/h3c-unipod-addc-产品截图/screenshots/01-网络自动开局与上线结果.png": {
+      "bytes": 349354,
+      "sha256": "6d40a9239239010623c97e373256acd55e223f711d8a4c725df7bae6dfe96806"
+    },
+    "参考资料/h3c-unipod-addc-产品截图/screenshots/02-参数网络意图与组网推荐.png": {
+      "bytes": 277887,
+      "sha256": "5b89d873487bf564510c35c7fa1a10ed73f9355e123d660a368241027a53f6ea"
+    },
+    "参考资料/h3c-unipod-addc-产品截图/screenshots/03-存储网络VLAN接入.png": {
+      "bytes": 376643,
+      "sha256": "d03d5e2edec12060981565c9525c13397001ed7ae264c756e56dbac2fa263888"
+    },
+    "参考资料/h3c-unipod-addc-产品截图/screenshots/04-服务器纳管与Agent状态.png": {
+      "bytes": 21873,
+      "sha256": "fd9020c48f072ebc773cfc652f1486aaf4cf34c04e1a695c583af4663b8cf6b9"
+    },
+    "参考资料/h3c-unipod-addc-产品截图/screenshots/05-Agent安装与端侧配置下发.png": {
+      "bytes": 46876,
+      "sha256": "1018fbcbc56e8bf38f10371f77ab779fa49af6187116a54d8a5176eef4afbb06"
+    },
+    "参考资料/h3c-unipod-addc-产品截图/screenshots/06-服务器网卡与GPU连接拓扑.png": {
+      "bytes": 273820,
+      "sha256": "0dc0b99f8a6bdd308ddb33b1297aa38da3c22a9d4daa9500de1a4a536ea42f8a"
+    },
+    "参考资料/h3c-unipod-addc-产品截图/screenshots/07-训前巡检与性能检查项.png": {
+      "bytes": 658396,
+      "sha256": "0b026339fc752779779c656e811243c229d381b3e803020329a22ada8d9db61a"
+    },
+    "参考资料/h3c-unipod-addc-产品截图/screenshots/08-巡检结果与未通过项目.png": {
+      "bytes": 610408,
+      "sha256": "7f9b95001f65cf02351459577c6f30fa4f3977fe195a3998a1cc5c9e7670056e"
+    },
+    "参考资料/h3c-unipod-addc-产品截图/screenshots/09-训练作业与卡间传输监控.png": {
+      "bytes": 566622,
+      "sha256": "cb3b5f11c3be980c7bf34d400e4d42bd827110bbfbcc871d96ccb526c97ac490"
+    },
+    "参考资料/h3c-unipod-addc-产品截图/screenshots/10-服务器性能与告警分诊.png": {
+      "bytes": 423619,
+      "sha256": "62839db786ed2c2b47bf7a65df27e8516b136be44945e890ac0e100e3737c225"
+    },
+    "参考资料/h3c-unipod-addc-产品截图/screenshots/11-光模块健康与风险排名.png": {
+      "bytes": 767780,
+      "sha256": "045f7f49a3baf04c2bebe51f74e3629c0508eaceb9fd16678ea86b355f763165"
+    },
+    "参考资料/h3c-unipod-addc-产品截图/screenshots/12-微突发与毫秒级队列缓冲.png": {
+      "bytes": 630425,
+      "sha256": "2241d90e17e1273f0a55ee9aadc4358d300c87497136b7049da23c583ca838b9"
+    },
+    "参考资料/h3c-unipod-addc-产品截图/screenshots/13-RoCE全流路径与根因诊断.png": {
+      "bytes": 553222,
+      "sha256": "05a96597edd2d7abcfb55e6cf4817406ff842958f2ef0944754b41100b28ebfc"
+    },
+    "参考资料/h3c-unipod-addc-产品截图/screenshots/14-路径导航与调度模式.png": {
+      "bytes": 193407,
+      "sha256": "ffac67ebae7695337d7eb2a5f840005f9c33db84433add2cd84cd3c83464fbeb"
+    },
+    "参考资料/h3c-unipod-addc-产品截图/screenshots/15-链路负载分布与调优观察.png": {
+      "bytes": 232627,
+      "sha256": "f165d64bd3eb1537136ade9f220440467f4fa942f65c76064d92be51f8631d71"
+    },
+    "参考资料/h3c-unipod-addc-产品截图/screenshots/16-存储I-O路径与时延分析.png": {
+      "bytes": 85014,
+      "sha256": "afb59700ac6ee4a43b6438b0d14d262471790eb3aba0d9397ce46536b8d40a88"
+    },
+    "参考资料/h3c-unipod-addc-产品截图/screenshots/17-存储I-O趋势下钻.png": {
+      "bytes": 75416,
+      "sha256": "fbf70e9317c4d02c59a073cc53e008c9bc15e9733074d5ceff39d80b066e49f2"
+    },
+    "参考资料/mindcluster-ccae-产品截图/screenshots/01-CCAE服务器资源清单.png": {
+      "bytes": 64231,
+      "sha256": "e6b23c35ee45249065f3d61ef1314e1c5d069712ba28320fac64d660ddc1e20d"
+    },
+    "参考资料/mindcluster-ccae-产品截图/screenshots/02-CCAE北向API管理.png": {
+      "bytes": 50197,
+      "sha256": "e4c8d9ade357764bb0e192948aa6f8817d6679a4e62d9041897684fb7be63ff5"
+    },
+    "参考资料/mindcluster-ccae-产品截图/screenshots/03-CCAE角色授权.png": {
+      "bytes": 92495,
+      "sha256": "491b779df40d5e040bdc415d030f704e92637a20d3c307f0e09c4f267e6bdcc7"
+    },
+    "参考资料/mindcluster-ccae-产品截图/screenshots/04-CCAE登录访问控制.png": {
+      "bytes": 78487,
+      "sha256": "d9befe312a30a1eb6075596594ecd79372a5e87faec62bea0172624374260665"
+    },
+    "参考资料/mindcluster-ccae-产品截图/screenshots/05-CCAE服务证书认证配置.png": {
+      "bytes": 287540,
+      "sha256": "d917a8164e268e4b76009a183a74febd480f80d19817f9787e60616b0a4ddde2"
+    },
+    "参考资料/mindcluster-ccae-产品截图/screenshots/06-Deployer软件包准备.png": {
+      "bytes": 30981,
+      "sha256": "115a4608c8cc86af86c41ffbe2aebbef4d52d9accc81cb7504ced2ffaca4e5b2"
+    },
+    "参考资料/mindcluster-ccae-产品截图/screenshots/07-NPU功率指标查询.png": {
+      "bytes": 207396,
+      "sha256": "785aefc82bfd1c89f65af3e6c19fa57d5c57a6237b2dfd0b5901006222bb184f"
+    },
+    "参考资料/mindcluster-ccae-产品截图/screenshots/08-交换机故障诊断报告.png": {
+      "bytes": 46689,
+      "sha256": "0601d1048055c56d71f068c2ba615f1585fff6cedf878e54c4dbce6265c7c967"
+    },
+    "参考资料/mindcluster-ccae-产品截图/screenshots/09-光模块链路指标明细.png": {
+      "bytes": 54745,
+      "sha256": "1bd345d3eb2fce0fcea363bb8bdee9c66550368b0822fb245b3d31537a434bd9"
+    },
+    "参考资料/mindcluster-ccae-产品截图/screenshots/10-NPU综合监控参考.png": {
+      "bytes": 607477,
+      "sha256": "c3dc9fc4fbcecd66dd545f904807f008d87bdbef3a3febffee6b2308c24e88d5"
+    },
+    "参考资料/mindcluster-ccae-产品截图/screenshots/11-推理业务指标：成功率、延迟与吞吐.png": {
+      "bytes": 2553530,
+      "sha256": "9be61d95a25a18f176be0ee83160ca1f5bb1ab0c8723c16300129fe03dd19012"
+    },
+    "参考资料/mindcluster-ccae-产品截图/screenshots/12-推理服务列表：服务状态与资源占用.png": {
+      "bytes": 2713750,
+      "sha256": "1b6fc79abe5273cb7c1a67d39c8488e894eeb4414d138512c9802c5c2137843c"
+    },
+    "参考资料/mindcluster-ccae-产品截图/screenshots/13-健康评估报告：算网存跨域检查结果.png": {
+      "bytes": 2601110,
+      "sha256": "e724e66ffe365101e9e89b9d3e0fab0525465a4f270aeb09fb7cb71e862448db"
+    },
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/01-全托管资源池概览.png": {
+      "bytes": 267286,
+      "sha256": "8816f2ae350efb47c0e8349097414c985228f681de2ef8af21a30cc54c1db663"
+    },
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/02-节点管理.png": {
+      "bytes": 262361,
+      "sha256": "c9de376bebe77ac047354a93661f598786627677e2aa5cfe7f0ed92a19628242"
+    },
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/03-队列调度与空闲资源出借.png": {
+      "bytes": 61060,
+      "sha256": "de0f37862b4cf5707d2a20ff34ff5bb55d0582d4f73f762f266975302948d9e5"
+    },
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/04-GPU虚拟化与分数卡.png": {
+      "bytes": 352311,
+      "sha256": "f14d5d4cd3940f6c9b8bcef1a7c7d34578bcbb4cc6c9342eb9b485658e41f563"
+    },
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/05-碎片治理结果.png": {
+      "bytes": 839478,
+      "sha256": "bbb39381ed97dfd26e5471e3b5f94158eb5fa1d532810c64a9e0bdaae75614c3"
+    },
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/06-快速开始模型与模板目录.png": {
+      "bytes": 620245,
+      "sha256": "c176649c8cb401f471f7abb603336b8674f622f619b55d22a94032204b18a339"
+    },
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/07-云端开发机与WebIDE.png": {
+      "bytes": 490275,
+      "sha256": "04e4cd4c735e5e62957caea8a621581df369c3d6a46f68f71726563970a6e90b"
+    },
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/08-训练提交前的资源诊断.png": {
+      "bytes": 270371,
+      "sha256": "b1df3599dfa816194c15dc04d153ede96c2a7ec2c1f87853bf9bc874da30e83b"
+    },
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/09-训练任务生命周期.png": {
+      "bytes": 314288,
+      "sha256": "6792c4189727312fccff346242cf1e0d9bde21ed3dd3c27a9fa5b7eb02449611"
+    },
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/10-训练吞吐与硬件维度监控.png": {
+      "bytes": 318968,
+      "sha256": "ae22294a1c05697a81c9449badc23b445edf33982dede2a45d861a3b2885b912"
+    },
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/11-TensorBoard训练效果.png": {
+      "bytes": 154716,
+      "sha256": "73d9f76683df1113c776ed1747c0abe99d551e004e0e2d43f866ddda1f14e7ad"
+    },
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/12-资源池利用率监控.png": {
+      "bytes": 254041,
+      "sha256": "2f98b3878ae2c64a8104fadbb3137d92abfccc1d9c6597ad4b9f472804f12107"
+    },
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/13-队列工作负载总览.png": {
+      "bytes": 187381,
+      "sha256": "dc55f36260e18cef3da5e90e221467fcf3acd11a54554b9a074f1fa517356c06"
+    },
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/14-训练容错与重试配置.png": {
+      "bytes": 191282,
+      "sha256": "921d4a8930e8f6fe1db37cb3c62469f394d9e88c77fc8ba1c208dea91223234d"
+    },
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/15-Hang调用栈诊断.png": {
+      "bytes": 290108,
+      "sha256": "d8cca704c916e848097b92b3d7d533e47289706f3edb240cb1351c6258b5a9e3"
+    },
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/16-训练失败智能诊断助手.png": {
+      "bytes": 263410,
+      "sha256": "bad40a3198e1762d42a68755330e0368394a0e7651d48bebb408f0b7e93e56bb"
+    },
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/17-在线服务运行状态.png": {
+      "bytes": 88585,
+      "sha256": "80727b666c30acf44a35902aaeb850cd7dcea10ca355f7a403e9519edfcc43bf"
+    },
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/18-多角色与PD分离服务组.png": {
+      "bytes": 927942,
+      "sha256": "ad0105e3a1319e66b7447b4d01a5590117b73c5304483b77fdd652f65639a2e7"
+    },
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/19-在线调试与请求预览.png": {
+      "bytes": 94379,
+      "sha256": "519c3515f711fa2e50eaa243d46e19e59c065bbe6ec2d2473f5c0830d9d3c587"
+    },
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/20-推理服务自动扩缩容.png": {
+      "bytes": 172179,
+      "sha256": "cc8155adc312eb9951ce1a51c14eacf0f8b5f064449c085619fc57d97daa83cd"
+    },
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/21-多服务流量分配策略.png": {
+      "bytes": 360148,
+      "sha256": "60ed9f6a445c133c5ceb1691bf3fc406c75e19f2b11c6cb0270ea55e3d15d9c0"
+    },
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/22-服务压测任务与测试条件.png": {
+      "bytes": 111345,
+      "sha256": "6e4b1113486e102fbf9ab03b1645db62331d97a007463e4b9822b5f08fd02ffa"
+    },
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/23-工作流配置与依赖图.png": {
+      "bytes": 549662,
+      "sha256": "62b3e54aae21f672734c7e283e217d00e858c6421f92b9d4d1aeafdef4745f6d"
+    },
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/24-工作流运行记录.png": {
+      "bytes": 457211,
+      "sha256": "640591a553d116f9859bcd4ed2c4a09a05ac0bdae5b46c5f0364936c37d56de3"
+    },
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/25-AI数据处理与Ray执行.png": {
+      "bytes": 482689,
+      "sha256": "7dd5e7a368ec47a1f6ac48add22ae68364fb0a4f9f8a93cbfdbbaf4c63a484a3"
+    },
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/26-数据集与存储版本.png": {
+      "bytes": 122097,
+      "sha256": "8bf6f3f82d97201d73767c676ba509f62eb162ad31967f068cd6ac5211550347"
+    },
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/27-模型注册与版本元数据.png": {
+      "bytes": 116727,
+      "sha256": "932342b2aac160cceb17ac23d0c1006e3146a78e054f26dfe30562812299526f"
+    },
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/28-具身模型评测任务配置.png": {
+      "bytes": 56229,
+      "sha256": "93938a8bfd5b5ce7f68df2c7c72c1a0156ed0910a6666be2ca55ea8be5a08cff"
+    },
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/29-具身模型评测结果对比.png": {
+      "bytes": 941926,
+      "sha256": "4313fe99f47c60230832c55787cd1bc27e7cff1e8550144b662cb105d9454a8f"
+    },
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/30-队列成员与角色权限.png": {
+      "bytes": 224468,
+      "sha256": "51a1e91b9890ee7fcc48e3eb7b7c6c15063f489c2f46410490493bdb0183c9a5"
+    },
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/31-成员资源配额管理.png": {
+      "bytes": 964279,
+      "sha256": "d2b4be2cd64c211177f121a174bf0b572bbaf490cd9c36b0a07305fdebef1bc5"
+    },
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/32-资源报表与卡时核算.png": {
+      "bytes": 261248,
+      "sha256": "d4e7893dae26ebc1249ad7713c1470bb9c6af5470875659d1a8cfee96669c053"
+    }
+  },
+  "dependencies": {
+    "output/竞品侧边栏分析V3/index.html": [
+      "参考资料/NVIDIA-Mission-Control-截图修订版/components/ajr/screenshots/01-作业恢复驾驶舱.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/components/runai/screenshots/01-GPU 与工作负载运行总览.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/components/runai/screenshots/02-项目与资源配额.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/components/runai/screenshots/03-可复用的算力规格与 GPU 细分.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/components/runai/screenshots/05-资源消耗报告与导出.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/03-基线验证流程编排.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/07-节点验证结果矩阵.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/15-硬件更换后恢复验证.png",
+      "参考资料/gridview-7-产品截图/screenshots/01-芯片级监控.png",
+      "参考资料/gridview-7-产品截图/screenshots/04-存储监控.png",
+      "参考资料/gridview-7-产品截图/screenshots/06-作业监控.png",
+      "参考资料/gridview-7-产品截图/screenshots/07-材料计算的软件与资源确认.png",
+      "参考资料/gridview-7-产品截图/screenshots/08-材料计算的文件与结果报告.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/02-参数网络意图与组网推荐.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/04-服务器纳管与Agent状态.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/05-Agent安装与端侧配置下发.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/06-服务器网卡与GPU连接拓扑.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/07-训前巡检与性能检查项.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/09-训练作业与卡间传输监控.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/13-RoCE全流路径与根因诊断.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/17-存储I-O趋势下钻.png",
+      "参考资料/mindcluster-ccae-产品截图/screenshots/02-CCAE北向API管理.png",
+      "参考资料/mindcluster-ccae-产品截图/screenshots/03-CCAE角色授权.png",
+      "参考资料/mindcluster-ccae-产品截图/screenshots/04-CCAE登录访问控制.png",
+      "参考资料/mindcluster-ccae-产品截图/screenshots/05-CCAE服务证书认证配置.png",
+      "参考资料/mindcluster-ccae-产品截图/screenshots/07-NPU功率指标查询.png",
+      "参考资料/mindcluster-ccae-产品截图/screenshots/08-交换机故障诊断报告.png",
+      "参考资料/mindcluster-ccae-产品截图/screenshots/09-光模块链路指标明细.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/01-全托管资源池概览.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/02-节点管理.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/06-快速开始模型与模板目录.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/08-训练提交前的资源诊断.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/09-训练任务生命周期.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/17-在线服务运行状态.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/30-队列成员与角色权限.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/31-成员资源配额管理.png",
+      "output/Figma背景竞品截图/44-1530.png",
+      "output/Figma背景竞品截图/44-1532.png",
+      "output/Figma背景竞品截图/44-1567.png",
+      "output/Figma背景竞品截图/44-1570.png",
+      "output/Figma背景竞品截图/44-1573.png",
+      "output/Figma背景竞品截图/44-1576.png",
+      "output/Figma背景竞品截图/44-1577.png",
+      "output/竞品侧边栏补图/base-06.png",
+      "output/竞品侧边栏补图/base-07.png",
+      "output/竞品侧边栏补图/base-25.png",
+      "output/竞品补充截图/AIStation/P023.png",
+      "output/竞品补充截图/AIStation/P029-训练配置.png",
+      "output/竞品补充截图/AIStation/P037.png",
+      "output/竞品补充截图/AIStation/P064.png",
+      "output/竞品补充截图/AIStation/P142.png",
+      "output/竞品补充截图/AIStation/P150.png",
+      "output/竞品补充截图/H3C灵犀Base/P005-角色与范围.png",
+      "output/竞品补充截图/H3C灵犀Base/P013-租户用户管理.png",
+      "output/竞品侧边栏分析V3/assets/NVIDIA-Mission-Control-截图修订版_01.png",
+      "output/竞品侧边栏分析V3/assets/NVIDIA-Mission-Control-截图修订版_04.png",
+      "output/竞品侧边栏分析V3/assets/aistation.png",
+      "output/竞品侧边栏分析V3/assets/baige-real.png",
+      "output/竞品侧边栏分析V3/assets/gridview-7-产品截图_02.png",
+      "output/竞品侧边栏分析V3/assets/gridview-7-产品截图_06.png",
+      "output/竞品侧边栏分析V3/assets/h3c-unipod-addc-产品截图_01.png",
+      "output/竞品侧边栏分析V3/assets/h3c-unipod-addc-产品截图_04.png",
+      "output/竞品侧边栏分析V3/assets/h3cbase.png",
+      "output/竞品侧边栏分析V3/assets/mindcluster-ccae-产品截图_01.png",
+      "output/竞品侧边栏分析V3/assets/mindcluster-ccae-产品截图_03.png",
+      "output/竞品侧边栏分析V3/assets/nvidia-mission-control-产品截图_02.png",
+      "output/竞品侧边栏分析V3/assets/nvidia-mission-control-产品截图_05.png"
+    ],
+    "output/竞品侧边栏分析V3/assets/nvidia-mission-control-产品截图_05.png": [],
+    "output/竞品侧边栏分析V3/assets/nvidia-mission-control-产品截图_02.png": [],
+    "output/竞品侧边栏分析V3/assets/mindcluster-ccae-产品截图_03.png": [],
+    "output/竞品侧边栏分析V3/assets/mindcluster-ccae-产品截图_01.png": [],
+    "output/竞品侧边栏分析V3/assets/h3cbase.png": [],
+    "output/竞品侧边栏分析V3/assets/h3c-unipod-addc-产品截图_04.png": [],
+    "output/竞品侧边栏分析V3/assets/h3c-unipod-addc-产品截图_01.png": [],
+    "output/竞品侧边栏分析V3/assets/gridview-7-产品截图_06.png": [],
+    "output/竞品侧边栏分析V3/assets/gridview-7-产品截图_02.png": [],
+    "output/竞品侧边栏分析V3/assets/baige-real.png": [],
+    "output/竞品侧边栏分析V3/assets/aistation.png": [],
+    "output/竞品侧边栏分析V3/assets/NVIDIA-Mission-Control-截图修订版_04.png": [],
+    "output/竞品侧边栏分析V3/assets/NVIDIA-Mission-Control-截图修订版_01.png": [],
+    "output/竞品补充截图/H3C灵犀Base/P013-租户用户管理.png": [],
+    "output/竞品补充截图/H3C灵犀Base/P005-角色与范围.png": [],
+    "output/竞品补充截图/AIStation/P150.png": [],
+    "output/竞品补充截图/AIStation/P142.png": [],
+    "output/竞品补充截图/AIStation/P064.png": [],
+    "output/竞品补充截图/AIStation/P037.png": [],
+    "output/竞品补充截图/AIStation/P029-训练配置.png": [],
+    "output/竞品补充截图/AIStation/P023.png": [],
+    "output/竞品侧边栏补图/base-25.png": [],
+    "output/竞品侧边栏补图/base-07.png": [],
+    "output/竞品侧边栏补图/base-06.png": [],
+    "output/Figma背景竞品截图/44-1577.png": [],
+    "output/Figma背景竞品截图/44-1576.png": [],
+    "output/Figma背景竞品截图/44-1573.png": [],
+    "output/Figma背景竞品截图/44-1570.png": [],
+    "output/Figma背景竞品截图/44-1567.png": [],
+    "output/Figma背景竞品截图/44-1532.png": [],
+    "output/Figma背景竞品截图/44-1530.png": [],
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/31-成员资源配额管理.png": [],
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/30-队列成员与角色权限.png": [],
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/17-在线服务运行状态.png": [],
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/09-训练任务生命周期.png": [],
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/08-训练提交前的资源诊断.png": [],
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/06-快速开始模型与模板目录.png": [],
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/02-节点管理.png": [],
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/01-全托管资源池概览.png": [],
+    "参考资料/mindcluster-ccae-产品截图/screenshots/09-光模块链路指标明细.png": [],
+    "参考资料/mindcluster-ccae-产品截图/screenshots/08-交换机故障诊断报告.png": [],
+    "参考资料/mindcluster-ccae-产品截图/screenshots/07-NPU功率指标查询.png": [],
+    "参考资料/mindcluster-ccae-产品截图/screenshots/05-CCAE服务证书认证配置.png": [],
+    "参考资料/mindcluster-ccae-产品截图/screenshots/04-CCAE登录访问控制.png": [],
+    "参考资料/mindcluster-ccae-产品截图/screenshots/03-CCAE角色授权.png": [],
+    "参考资料/mindcluster-ccae-产品截图/screenshots/02-CCAE北向API管理.png": [],
+    "参考资料/h3c-unipod-addc-产品截图/screenshots/17-存储I-O趋势下钻.png": [],
+    "参考资料/h3c-unipod-addc-产品截图/screenshots/13-RoCE全流路径与根因诊断.png": [],
+    "参考资料/h3c-unipod-addc-产品截图/screenshots/09-训练作业与卡间传输监控.png": [],
+    "参考资料/h3c-unipod-addc-产品截图/screenshots/07-训前巡检与性能检查项.png": [],
+    "参考资料/h3c-unipod-addc-产品截图/screenshots/06-服务器网卡与GPU连接拓扑.png": [],
+    "参考资料/h3c-unipod-addc-产品截图/screenshots/05-Agent安装与端侧配置下发.png": [],
+    "参考资料/h3c-unipod-addc-产品截图/screenshots/04-服务器纳管与Agent状态.png": [],
+    "参考资料/h3c-unipod-addc-产品截图/screenshots/02-参数网络意图与组网推荐.png": [],
+    "参考资料/gridview-7-产品截图/screenshots/08-材料计算的文件与结果报告.png": [],
+    "参考资料/gridview-7-产品截图/screenshots/07-材料计算的软件与资源确认.png": [],
+    "参考资料/gridview-7-产品截图/screenshots/06-作业监控.png": [],
+    "参考资料/gridview-7-产品截图/screenshots/04-存储监控.png": [],
+    "参考资料/gridview-7-产品截图/screenshots/01-芯片级监控.png": [],
+    "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/15-硬件更换后恢复验证.png": [],
+    "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/07-节点验证结果矩阵.png": [],
+    "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/03-基线验证流程编排.png": [],
+    "参考资料/NVIDIA-Mission-Control-截图修订版/components/runai/screenshots/05-资源消耗报告与导出.png": [],
+    "参考资料/NVIDIA-Mission-Control-截图修订版/components/runai/screenshots/03-可复用的算力规格与 GPU 细分.png": [],
+    "参考资料/NVIDIA-Mission-Control-截图修订版/components/runai/screenshots/02-项目与资源配额.png": [],
+    "参考资料/NVIDIA-Mission-Control-截图修订版/components/runai/screenshots/01-GPU 与工作负载运行总览.png": [],
+    "参考资料/NVIDIA-Mission-Control-截图修订版/components/ajr/screenshots/01-作业恢复驾驶舱.png": [],
+    "output/竞品结论与设计洞察V2.html": [],
+    "output/产品框架-双门户角色侧边栏V12.html": [],
+    "output/全场景旅程与角色协作V15.html": [],
+    "output/产品定位-产品介绍更新版.html": [],
+    "output/超节点平台竞争分析.html": [
+      "output/竞品侧边栏补图/base-06.png",
+      "output/竞品侧边栏补图/base-07.png",
+      "output/竞品侧边栏补图/base-25.png",
+      "output/竞品图片预览/ahr-01.webp",
+      "output/竞品图片预览/ahr-02.webp",
+      "output/竞品图片预览/ahr-03.webp",
+      "output/竞品图片预览/ahr-04.webp",
+      "output/竞品图片预览/ahr-05.webp",
+      "output/竞品图片预览/ahr-06.webp",
+      "output/竞品图片预览/ahr-07.webp",
+      "output/竞品图片预览/ahr-08.webp",
+      "output/竞品图片预览/ahr-09.webp",
+      "output/竞品图片预览/ahr-10.webp",
+      "output/竞品图片预览/ahr-11.webp",
+      "output/竞品图片预览/ahr-12.webp",
+      "output/竞品图片预览/ahr-13.webp",
+      "output/竞品图片预览/ahr-14.webp",
+      "output/竞品图片预览/ahr-15.webp",
+      "output/竞品图片预览/aistation-142.webp",
+      "output/竞品图片预览/aistation-150.webp",
+      "output/竞品图片预览/aistation-23.webp",
+      "output/竞品图片预览/aistation-29.webp",
+      "output/竞品图片预览/aistation-37.webp",
+      "output/竞品图片预览/aistation-64.webp",
+      "output/竞品图片预览/ajr-01.webp",
+      "output/竞品图片预览/baidu-01.webp",
+      "output/竞品图片预览/baidu-02.webp",
+      "output/竞品图片预览/baidu-03.webp",
+      "output/竞品图片预览/baidu-04.webp",
+      "output/竞品图片预览/baidu-05.webp",
+      "output/竞品图片预览/baidu-06.webp",
+      "output/竞品图片预览/baidu-07.webp",
+      "output/竞品图片预览/baidu-08.webp",
+      "output/竞品图片预览/baidu-09.webp",
+      "output/竞品图片预览/baidu-10.webp",
+      "output/竞品图片预览/baidu-11.webp",
+      "output/竞品图片预览/baidu-12.webp",
+      "output/竞品图片预览/baidu-13.webp",
+      "output/竞品图片预览/baidu-14.webp",
+      "output/竞品图片预览/baidu-15.webp",
+      "output/竞品图片预览/baidu-16.webp",
+      "output/竞品图片预览/baidu-17.webp",
+      "output/竞品图片预览/baidu-18.webp",
+      "output/竞品图片预览/baidu-19.webp",
+      "output/竞品图片预览/baidu-20.webp",
+      "output/竞品图片预览/baidu-21.webp",
+      "output/竞品图片预览/baidu-22.webp",
+      "output/竞品图片预览/baidu-23.webp",
+      "output/竞品图片预览/baidu-24.webp",
+      "output/竞品图片预览/baidu-25.webp",
+      "output/竞品图片预览/baidu-26.webp",
+      "output/竞品图片预览/baidu-27.webp",
+      "output/竞品图片预览/baidu-28.webp",
+      "output/竞品图片预览/baidu-29.webp",
+      "output/竞品图片预览/baidu-30.webp",
+      "output/竞品图片预览/baidu-31.webp",
+      "output/竞品图片预览/baidu-32.webp",
+      "output/竞品图片预览/base-05.webp",
+      "output/竞品图片预览/base-13.webp",
+      "output/竞品图片预览/base-extra-25.webp",
+      "output/竞品图片预览/base-extra-6.webp",
+      "output/竞品图片预览/base-extra-7.webp",
+      "output/竞品图片预览/bcm-01.webp",
+      "output/竞品图片预览/bcm-02.webp",
+      "output/竞品图片预览/bcm-03.webp",
+      "output/竞品图片预览/bcm-04.webp",
+      "output/竞品图片预览/dps-01.webp",
+      "output/竞品图片预览/dps-02.webp",
+      "output/竞品图片预览/dps-03.webp",
+      "output/竞品图片预览/figma-44-1525.webp",
+      "output/竞品图片预览/figma-44-1529.webp",
+      "output/竞品图片预览/figma-44-1530.webp",
+      "output/竞品图片预览/figma-44-1531.webp",
+      "output/竞品图片预览/figma-44-1532.webp",
+      "output/竞品图片预览/figma-44-1534.webp",
+      "output/竞品图片预览/figma-44-1566.webp",
+      "output/竞品图片预览/figma-44-1567.webp",
+      "output/竞品图片预览/figma-44-1568.webp",
+      "output/竞品图片预览/figma-44-1569.webp",
+      "output/竞品图片预览/figma-44-1570.webp",
+      "output/竞品图片预览/figma-44-1571.webp",
+      "output/竞品图片预览/figma-44-1572.webp",
+      "output/竞品图片预览/figma-44-1573.webp",
+      "output/竞品图片预览/figma-44-1574.webp",
+      "output/竞品图片预览/figma-44-1575.webp",
+      "output/竞品图片预览/figma-44-1576.webp",
+      "output/竞品图片预览/figma-44-1577.webp",
+      "output/竞品图片预览/figma-44-1578.webp",
+      "output/竞品图片预览/figma-44-1579.webp",
+      "output/竞品图片预览/figma-44-1580.webp",
+      "output/竞品图片预览/figma-44-1581.webp",
+      "output/竞品图片预览/gridview-01.webp",
+      "output/竞品图片预览/gridview-02.webp",
+      "output/竞品图片预览/gridview-03.webp",
+      "output/竞品图片预览/gridview-04.webp",
+      "output/竞品图片预览/gridview-05.webp",
+      "output/竞品图片预览/gridview-06.webp",
+      "output/竞品图片预览/gridview-07.webp",
+      "output/竞品图片预览/gridview-08.webp",
+      "output/竞品图片预览/h3c-01.webp",
+      "output/竞品图片预览/h3c-02.webp",
+      "output/竞品图片预览/h3c-03.webp",
+      "output/竞品图片预览/h3c-04.webp",
+      "output/竞品图片预览/h3c-05.webp",
+      "output/竞品图片预览/h3c-06.webp",
+      "output/竞品图片预览/h3c-07.webp",
+      "output/竞品图片预览/h3c-08.webp",
+      "output/竞品图片预览/h3c-09.webp",
+      "output/竞品图片预览/h3c-10.webp",
+      "output/竞品图片预览/h3c-11.webp",
+      "output/竞品图片预览/h3c-12.webp",
+      "output/竞品图片预览/h3c-13.webp",
+      "output/竞品图片预览/h3c-14.webp",
+      "output/竞品图片预览/h3c-15.webp",
+      "output/竞品图片预览/h3c-16.webp",
+      "output/竞品图片预览/h3c-17.webp",
+      "output/竞品图片预览/huawei-01.webp",
+      "output/竞品图片预览/huawei-02.webp",
+      "output/竞品图片预览/huawei-03.webp",
+      "output/竞品图片预览/huawei-04.webp",
+      "output/竞品图片预览/huawei-05.webp",
+      "output/竞品图片预览/huawei-06.webp",
+      "output/竞品图片预览/huawei-07.webp",
+      "output/竞品图片预览/huawei-08.webp",
+      "output/竞品图片预览/huawei-09.webp",
+      "output/竞品图片预览/huawei-10.webp",
+      "output/竞品图片预览/huawei-11.webp",
+      "output/竞品图片预览/huawei-12.webp",
+      "output/竞品图片预览/huawei-13.webp",
+      "output/竞品图片预览/runai-01.webp",
+      "output/竞品图片预览/runai-02.webp",
+      "output/竞品图片预览/runai-03.webp",
+      "output/竞品图片预览/runai-04.webp",
+      "output/竞品图片预览/runai-05.webp",
+      "output/竞品图片预览/sothis-03.webp",
+      "output/竞品图片预览/sothis-04.webp",
+      "output/竞品图片预览/sothis-05.webp",
+      "output/竞品图片预览/sothis-06.webp",
+      "output/竞品图片预览/sothis-07.webp",
+      "output/竞品图片预览/sothis-09.webp",
+      "output/竞品图片预览/sothis-10.webp",
+      "output/竞品图片预览/sothis-11.webp",
+      "output/竞品图片预览/sothis-12.webp",
+      "output/竞品图片预览/sothis-13.webp",
+      "output/竞品图片预览/sothis-14.webp",
+      "output/竞品图片预览/sothis-15.webp",
+      "output/竞品图片预览/sothis-16.webp",
+      "output/竞品图片预览/sothis-18.webp",
+      "output/竞品图片预览/sothis-19.webp",
+      "output/竞品图片预览/sothis-20.webp",
+      "output/竞品图片预览/sothis-21.webp",
+      "output/竞品图片预览/sothis-22.webp",
+      "output/竞品图片预览/sothis-23.webp",
+      "output/竞品图片预览/sothis-25.webp",
+      "output/竞品图片预览/sothis-26.webp",
+      "output/竞品图片预览/sothis-27.webp",
+      "output/竞品图片预览/sothis-28.webp",
+      "output/竞品图片预览/sothis-30.webp",
+      "output/竞品图片预览/sothis-31.webp",
+      "output/竞品图片预览/sothis-32.webp",
+      "output/竞品图片预览/sothis-33.webp",
+      "output/竞品图片预览/sothis-34.webp",
+      "output/竞品图片预览/sothis-35.webp",
+      "output/竞品补充截图/AIStation/P023.png",
+      "output/竞品补充截图/AIStation/P029-训练配置.png",
+      "output/竞品补充截图/AIStation/P037.png",
+      "output/竞品补充截图/AIStation/P064.png",
+      "output/竞品补充截图/AIStation/P142.png",
+      "output/竞品补充截图/AIStation/P150.png",
+      "output/竞品补充截图/H3C灵犀Base/P005-角色与范围.png",
+      "output/竞品补充截图/H3C灵犀Base/P013-租户用户管理.png",
+      "output/竞品补充截图/SothisAI/P03.png",
+      "output/竞品补充截图/SothisAI/P04.png",
+      "output/竞品补充截图/SothisAI/P05.png",
+      "output/竞品补充截图/SothisAI/P06.png",
+      "output/竞品补充截图/SothisAI/P07.png",
+      "output/竞品补充截图/SothisAI/P09.png",
+      "output/竞品补充截图/SothisAI/P10.png",
+      "output/竞品补充截图/SothisAI/P11.png",
+      "output/竞品补充截图/SothisAI/P12.png",
+      "output/竞品补充截图/SothisAI/P13.png",
+      "output/竞品补充截图/SothisAI/P14.png",
+      "output/竞品补充截图/SothisAI/P15.png",
+      "output/竞品补充截图/SothisAI/P16.png",
+      "output/竞品补充截图/SothisAI/P18.png",
+      "output/竞品补充截图/SothisAI/P19.png",
+      "output/竞品补充截图/SothisAI/P20.png",
+      "output/竞品补充截图/SothisAI/P21.png",
+      "output/竞品补充截图/SothisAI/P22.png",
+      "output/竞品补充截图/SothisAI/P23.png",
+      "output/竞品补充截图/SothisAI/P25.png",
+      "output/竞品补充截图/SothisAI/P26.png",
+      "output/竞品补充截图/SothisAI/P27.png",
+      "output/竞品补充截图/SothisAI/P28.png",
+      "output/竞品补充截图/SothisAI/P30.png",
+      "output/竞品补充截图/SothisAI/P31.png",
+      "output/竞品补充截图/SothisAI/P32.png",
+      "output/竞品补充截图/SothisAI/P33.png",
+      "output/竞品补充截图/SothisAI/P34.png",
+      "output/竞品补充截图/SothisAI/P35.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/01-全托管资源池概览.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/02-节点管理.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/03-队列调度与空闲资源出借.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/04-GPU虚拟化与分数卡.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/05-碎片治理结果.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/06-快速开始模型与模板目录.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/07-云端开发机与WebIDE.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/08-训练提交前的资源诊断.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/09-训练任务生命周期.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/10-训练吞吐与硬件维度监控.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/11-TensorBoard训练效果.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/12-资源池利用率监控.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/13-队列工作负载总览.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/14-训练容错与重试配置.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/15-Hang调用栈诊断.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/16-训练失败智能诊断助手.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/17-在线服务运行状态.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/18-多角色与PD分离服务组.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/19-在线调试与请求预览.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/20-推理服务自动扩缩容.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/21-多服务流量分配策略.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/22-服务压测任务与测试条件.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/23-工作流配置与依赖图.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/24-工作流运行记录.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/25-AI数据处理与Ray执行.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/26-数据集与存储版本.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/27-模型注册与版本元数据.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/28-具身模型评测任务配置.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/29-具身模型评测结果对比.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/30-队列成员与角色权限.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/31-成员资源配额管理.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/32-资源报表与卡时核算.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/components/ajr/screenshots/01-作业恢复驾驶舱.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/components/bcm/screenshots/01-漏液事件追踪.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/components/bcm/screenshots/02-漏液与隔离状态监控.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/components/bcm/screenshots/03-按工作负载选择GPU功耗档位.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/components/bcm/screenshots/04-集群用户与分组.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/components/dps/screenshots/01-电力策略与资源组总览.jpeg",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/components/dps/screenshots/02-电力策略编辑示例.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/components/dps/screenshots/03-电力分配拓扑编辑示例.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/components/runai/screenshots/01-GPU 与工作负载运行总览.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/components/runai/screenshots/02-项目与资源配额.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/components/runai/screenshots/03-可复用的算力规格与 GPU 细分.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/components/runai/screenshots/04-工作负载统一入口与生命周期.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/components/runai/screenshots/05-资源消耗报告与导出.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/01-运维首页总览.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/02-资源详情与运行历史.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/03-基线验证流程编排.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/04-运维流程执行与编辑权限.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/05-运行记录与状态.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/06-自动修复执行详情.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/07-节点验证结果矩阵.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/08-已发布的验收报告.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/09-失败结果下钻.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/10-节点诊断日志.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/11-活跃告警中心.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/12-告警规则与自动动作.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/13-告警时间线与调查.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/14-固件升级流程库.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/15-硬件更换后恢复验证.png",
+      "参考资料/gridview-7-产品截图/screenshots/01-芯片级监控.png",
+      "参考资料/gridview-7-产品截图/screenshots/02-节点级监控.png",
+      "参考资料/gridview-7-产品截图/screenshots/03-集群级监控.png",
+      "参考资料/gridview-7-产品截图/screenshots/04-存储监控.png",
+      "参考资料/gridview-7-产品截图/screenshots/05-网络监控.png",
+      "参考资料/gridview-7-产品截图/screenshots/06-作业监控.png",
+      "参考资料/gridview-7-产品截图/screenshots/07-材料计算的软件与资源确认.png",
+      "参考资料/gridview-7-产品截图/screenshots/08-材料计算的文件与结果报告.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/01-网络自动开局与上线结果.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/02-参数网络意图与组网推荐.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/03-存储网络VLAN接入.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/04-服务器纳管与Agent状态.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/05-Agent安装与端侧配置下发.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/06-服务器网卡与GPU连接拓扑.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/07-训前巡检与性能检查项.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/08-巡检结果与未通过项目.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/09-训练作业与卡间传输监控.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/10-服务器性能与告警分诊.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/11-光模块健康与风险排名.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/12-微突发与毫秒级队列缓冲.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/13-RoCE全流路径与根因诊断.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/14-路径导航与调度模式.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/15-链路负载分布与调优观察.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/16-存储I-O路径与时延分析.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/17-存储I-O趋势下钻.png",
+      "参考资料/mindcluster-ccae-产品截图/screenshots/01-CCAE服务器资源清单.png",
+      "参考资料/mindcluster-ccae-产品截图/screenshots/02-CCAE北向API管理.png",
+      "参考资料/mindcluster-ccae-产品截图/screenshots/03-CCAE角色授权.png",
+      "参考资料/mindcluster-ccae-产品截图/screenshots/04-CCAE登录访问控制.png",
+      "参考资料/mindcluster-ccae-产品截图/screenshots/05-CCAE服务证书认证配置.png",
+      "参考资料/mindcluster-ccae-产品截图/screenshots/06-Deployer软件包准备.png",
+      "参考资料/mindcluster-ccae-产品截图/screenshots/07-NPU功率指标查询.png",
+      "参考资料/mindcluster-ccae-产品截图/screenshots/08-交换机故障诊断报告.png",
+      "参考资料/mindcluster-ccae-产品截图/screenshots/09-光模块链路指标明细.png",
+      "参考资料/mindcluster-ccae-产品截图/screenshots/10-NPU综合监控参考.png",
+      "参考资料/mindcluster-ccae-产品截图/screenshots/11-推理业务指标：成功率、延迟与吞吐.png",
+      "参考资料/mindcluster-ccae-产品截图/screenshots/12-推理服务列表：服务状态与资源占用.png",
+      "参考资料/mindcluster-ccae-产品截图/screenshots/13-健康评估报告：算网存跨域检查结果.png",
+      "output/Figma背景竞品截图/44-1525.png",
+      "output/Figma背景竞品截图/44-1529.png",
+      "output/Figma背景竞品截图/44-1530.png",
+      "output/Figma背景竞品截图/44-1531.png",
+      "output/Figma背景竞品截图/44-1532.png",
+      "output/Figma背景竞品截图/44-1534.png",
+      "output/Figma背景竞品截图/44-1566.png",
+      "output/Figma背景竞品截图/44-1567.png",
+      "output/Figma背景竞品截图/44-1568.png",
+      "output/Figma背景竞品截图/44-1569.png",
+      "output/Figma背景竞品截图/44-1570.png",
+      "output/Figma背景竞品截图/44-1571.png",
+      "output/Figma背景竞品截图/44-1572.png",
+      "output/Figma背景竞品截图/44-1573.png",
+      "output/Figma背景竞品截图/44-1574.png",
+      "output/Figma背景竞品截图/44-1575.png",
+      "output/Figma背景竞品截图/44-1576.png",
+      "output/Figma背景竞品截图/44-1577.png",
+      "output/Figma背景竞品截图/44-1578.png",
+      "output/Figma背景竞品截图/44-1579.png",
+      "output/Figma背景竞品截图/44-1580.png",
+      "output/Figma背景竞品截图/44-1581.png",
+      "output/业务关系示例图.png",
+      "output/产品定位-产品介绍更新版.html",
+      "output/产品框架-双门户角色侧边栏V12.html",
+      "output/全场景旅程与角色协作V15.html",
+      "output/全场景旅程与角色协作V15.html",
+      "output/执行方案清单.csv",
+      "output/百度百舸-用户截图/截屏2026-10-21 13.17.37.png",
+      "output/百度百舸-用户截图/截屏2026-10-21 13.17.45.png",
+      "output/百度百舸-用户截图/截屏2026-10-21 13.18.38.png",
+      "output/百度百舸-用户截图/截屏2026-10-21 13.18.54.png",
+      "output/百度百舸-用户截图/截屏2026-10-21 13.18.57.png",
+      "output/百度百舸-用户截图/截屏2026-10-21 13.19.13.png",
+      "output/百度百舸-用户截图/截屏2026-10-21 13.19.40.png",
+      "output/百度百舸-用户截图/截屏2026-10-21 13.19.56.png",
+      "output/竞品侧边栏分析V3/index.html",
+      "output/竞品侧边栏分析V3/index.html",
+      "output/竞品截图证据索引.json",
+      "output/竞品结论与设计洞察V2.html",
+      "output/角色页面功能清单.csv",
+      "output/角色页面功能清单.json",
+      "output/设计产出.json",
+      "output/设计产出.md",
+      "output/设计策略.md",
+      "output/设计策略清单.csv",
+      "output/超节点平台竞争分析.md",
+      "output/超节点平台竞争分析.md",
+      "output/超节点平台竞争分析.md",
+      "output/超节点平台竞争分析.md",
+      "output/超节点平台竞争分析.md",
+      "output/超节点平台竞争分析.md",
+      "output/超节点平台竞争分析.md",
+      "output/软件业务全景.csv"
+    ],
+    "output/软件业务全景.csv": [],
+    "output/超节点平台竞争分析.md": [],
+    "output/设计策略清单.csv": [],
+    "output/设计策略.md": [],
+    "output/设计产出.md": [],
+    "output/设计产出.json": [],
+    "output/角色页面功能清单.json": [],
+    "output/角色页面功能清单.csv": [],
+    "output/竞品截图证据索引.json": [
+      "参考资料/NVIDIA-Mission-Control-截图修订版/components/ajr/screenshots/01-作业恢复驾驶舱.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/components/bcm/screenshots/01-漏液事件追踪.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/components/bcm/screenshots/02-漏液与隔离状态监控.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/components/bcm/screenshots/03-按工作负载选择GPU功耗档位.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/components/bcm/screenshots/04-集群用户与分组.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/components/dps/screenshots/01-电力策略与资源组总览.jpeg",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/components/dps/screenshots/02-电力策略编辑示例.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/components/dps/screenshots/03-电力分配拓扑编辑示例.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/components/runai/screenshots/01-GPU 与工作负载运行总览.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/components/runai/screenshots/02-项目与资源配额.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/components/runai/screenshots/03-可复用的算力规格与 GPU 细分.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/components/runai/screenshots/04-工作负载统一入口与生命周期.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/components/runai/screenshots/05-资源消耗报告与导出.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/01-运维首页总览.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/02-资源详情与运行历史.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/03-基线验证流程编排.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/04-运维流程执行与编辑权限.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/05-运行记录与状态.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/06-自动修复执行详情.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/07-节点验证结果矩阵.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/08-已发布的验收报告.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/09-失败结果下钻.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/10-节点诊断日志.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/11-活跃告警中心.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/12-告警规则与自动动作.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/13-告警时间线与调查.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/14-固件升级流程库.png",
+      "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/15-硬件更换后恢复验证.png",
+      "参考资料/gridview-7-产品截图/screenshots/01-芯片级监控.png",
+      "参考资料/gridview-7-产品截图/screenshots/02-节点级监控.png",
+      "参考资料/gridview-7-产品截图/screenshots/03-集群级监控.png",
+      "参考资料/gridview-7-产品截图/screenshots/04-存储监控.png",
+      "参考资料/gridview-7-产品截图/screenshots/05-网络监控.png",
+      "参考资料/gridview-7-产品截图/screenshots/06-作业监控.png",
+      "参考资料/gridview-7-产品截图/screenshots/07-材料计算的软件与资源确认.png",
+      "参考资料/gridview-7-产品截图/screenshots/08-材料计算的文件与结果报告.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/01-网络自动开局与上线结果.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/02-参数网络意图与组网推荐.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/03-存储网络VLAN接入.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/04-服务器纳管与Agent状态.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/05-Agent安装与端侧配置下发.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/06-服务器网卡与GPU连接拓扑.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/07-训前巡检与性能检查项.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/08-巡检结果与未通过项目.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/09-训练作业与卡间传输监控.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/10-服务器性能与告警分诊.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/11-光模块健康与风险排名.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/12-微突发与毫秒级队列缓冲.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/13-RoCE全流路径与根因诊断.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/14-路径导航与调度模式.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/15-链路负载分布与调优观察.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/16-存储I-O路径与时延分析.png",
+      "参考资料/h3c-unipod-addc-产品截图/screenshots/17-存储I-O趋势下钻.png",
+      "参考资料/mindcluster-ccae-产品截图/screenshots/01-CCAE服务器资源清单.png",
+      "参考资料/mindcluster-ccae-产品截图/screenshots/02-CCAE北向API管理.png",
+      "参考资料/mindcluster-ccae-产品截图/screenshots/03-CCAE角色授权.png",
+      "参考资料/mindcluster-ccae-产品截图/screenshots/04-CCAE登录访问控制.png",
+      "参考资料/mindcluster-ccae-产品截图/screenshots/05-CCAE服务证书认证配置.png",
+      "参考资料/mindcluster-ccae-产品截图/screenshots/06-Deployer软件包准备.png",
+      "参考资料/mindcluster-ccae-产品截图/screenshots/07-NPU功率指标查询.png",
+      "参考资料/mindcluster-ccae-产品截图/screenshots/08-交换机故障诊断报告.png",
+      "参考资料/mindcluster-ccae-产品截图/screenshots/09-光模块链路指标明细.png",
+      "参考资料/mindcluster-ccae-产品截图/screenshots/10-NPU综合监控参考.png",
+      "参考资料/mindcluster-ccae-产品截图/screenshots/11-推理业务指标：成功率、延迟与吞吐.png",
+      "参考资料/mindcluster-ccae-产品截图/screenshots/12-推理服务列表：服务状态与资源占用.png",
+      "参考资料/mindcluster-ccae-产品截图/screenshots/13-健康评估报告：算网存跨域检查结果.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/01-全托管资源池概览.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/02-节点管理.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/03-队列调度与空闲资源出借.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/04-GPU虚拟化与分数卡.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/05-碎片治理结果.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/06-快速开始模型与模板目录.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/07-云端开发机与WebIDE.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/08-训练提交前的资源诊断.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/09-训练任务生命周期.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/10-训练吞吐与硬件维度监控.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/11-TensorBoard训练效果.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/12-资源池利用率监控.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/13-队列工作负载总览.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/14-训练容错与重试配置.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/15-Hang调用栈诊断.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/16-训练失败智能诊断助手.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/17-在线服务运行状态.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/18-多角色与PD分离服务组.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/19-在线调试与请求预览.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/20-推理服务自动扩缩容.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/21-多服务流量分配策略.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/22-服务压测任务与测试条件.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/23-工作流配置与依赖图.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/24-工作流运行记录.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/25-AI数据处理与Ray执行.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/26-数据集与存储版本.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/27-模型注册与版本元数据.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/28-具身模型评测任务配置.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/29-具身模型评测结果对比.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/30-队列成员与角色权限.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/31-成员资源配额管理.png",
+      "参考资料/百度百舸-AI计算平台-产品截图/screenshots/32-资源报表与卡时核算.png",
+      "output/Figma背景竞品截图/44-1525.png",
+      "output/Figma背景竞品截图/44-1529.png",
+      "output/Figma背景竞品截图/44-1530.png",
+      "output/Figma背景竞品截图/44-1531.png",
+      "output/Figma背景竞品截图/44-1532.png",
+      "output/Figma背景竞品截图/44-1534.png",
+      "output/Figma背景竞品截图/44-1566.png",
+      "output/Figma背景竞品截图/44-1567.png",
+      "output/Figma背景竞品截图/44-1568.png",
+      "output/Figma背景竞品截图/44-1569.png",
+      "output/Figma背景竞品截图/44-1570.png",
+      "output/Figma背景竞品截图/44-1571.png",
+      "output/Figma背景竞品截图/44-1572.png",
+      "output/Figma背景竞品截图/44-1573.png",
+      "output/Figma背景竞品截图/44-1574.png",
+      "output/Figma背景竞品截图/44-1575.png",
+      "output/Figma背景竞品截图/44-1576.png",
+      "output/Figma背景竞品截图/44-1577.png",
+      "output/Figma背景竞品截图/44-1578.png",
+      "output/Figma背景竞品截图/44-1579.png",
+      "output/Figma背景竞品截图/44-1580.png",
+      "output/Figma背景竞品截图/44-1581.png",
+      "output/竞品侧边栏补图/base-06.png",
+      "output/竞品侧边栏补图/base-07.png",
+      "output/竞品侧边栏补图/base-25.png",
+      "output/竞品图片预览/ahr-01.webp",
+      "output/竞品图片预览/ahr-02.webp",
+      "output/竞品图片预览/ahr-03.webp",
+      "output/竞品图片预览/ahr-04.webp",
+      "output/竞品图片预览/ahr-05.webp",
+      "output/竞品图片预览/ahr-06.webp",
+      "output/竞品图片预览/ahr-07.webp",
+      "output/竞品图片预览/ahr-08.webp",
+      "output/竞品图片预览/ahr-09.webp",
+      "output/竞品图片预览/ahr-10.webp",
+      "output/竞品图片预览/ahr-11.webp",
+      "output/竞品图片预览/ahr-12.webp",
+      "output/竞品图片预览/ahr-13.webp",
+      "output/竞品图片预览/ahr-14.webp",
+      "output/竞品图片预览/ahr-15.webp",
+      "output/竞品图片预览/aistation-142.webp",
+      "output/竞品图片预览/aistation-150.webp",
+      "output/竞品图片预览/aistation-23.webp",
+      "output/竞品图片预览/aistation-29.webp",
+      "output/竞品图片预览/aistation-37.webp",
+      "output/竞品图片预览/aistation-64.webp",
+      "output/竞品图片预览/ajr-01.webp",
+      "output/竞品图片预览/baidu-01.webp",
+      "output/竞品图片预览/baidu-02.webp",
+      "output/竞品图片预览/baidu-03.webp",
+      "output/竞品图片预览/baidu-04.webp",
+      "output/竞品图片预览/baidu-05.webp",
+      "output/竞品图片预览/baidu-06.webp",
+      "output/竞品图片预览/baidu-07.webp",
+      "output/竞品图片预览/baidu-08.webp",
+      "output/竞品图片预览/baidu-09.webp",
+      "output/竞品图片预览/baidu-10.webp",
+      "output/竞品图片预览/baidu-11.webp",
+      "output/竞品图片预览/baidu-12.webp",
+      "output/竞品图片预览/baidu-13.webp",
+      "output/竞品图片预览/baidu-14.webp",
+      "output/竞品图片预览/baidu-15.webp",
+      "output/竞品图片预览/baidu-16.webp",
+      "output/竞品图片预览/baidu-17.webp",
+      "output/竞品图片预览/baidu-18.webp",
+      "output/竞品图片预览/baidu-19.webp",
+      "output/竞品图片预览/baidu-20.webp",
+      "output/竞品图片预览/baidu-21.webp",
+      "output/竞品图片预览/baidu-22.webp",
+      "output/竞品图片预览/baidu-23.webp",
+      "output/竞品图片预览/baidu-24.webp",
+      "output/竞品图片预览/baidu-25.webp",
+      "output/竞品图片预览/baidu-26.webp",
+      "output/竞品图片预览/baidu-27.webp",
+      "output/竞品图片预览/baidu-28.webp",
+      "output/竞品图片预览/baidu-29.webp",
+      "output/竞品图片预览/baidu-30.webp",
+      "output/竞品图片预览/baidu-31.webp",
+      "output/竞品图片预览/baidu-32.webp",
+      "output/竞品图片预览/base-05.webp",
+      "output/竞品图片预览/base-13.webp",
+      "output/竞品图片预览/base-extra-25.webp",
+      "output/竞品图片预览/base-extra-6.webp",
+      "output/竞品图片预览/base-extra-7.webp",
+      "output/竞品图片预览/bcm-01.webp",
+      "output/竞品图片预览/bcm-02.webp",
+      "output/竞品图片预览/bcm-03.webp",
+      "output/竞品图片预览/bcm-04.webp",
+      "output/竞品图片预览/dps-01.webp",
+      "output/竞品图片预览/dps-02.webp",
+      "output/竞品图片预览/dps-03.webp",
+      "output/竞品图片预览/figma-44-1525.webp",
+      "output/竞品图片预览/figma-44-1529.webp",
+      "output/竞品图片预览/figma-44-1530.webp",
+      "output/竞品图片预览/figma-44-1531.webp",
+      "output/竞品图片预览/figma-44-1532.webp",
+      "output/竞品图片预览/figma-44-1534.webp",
+      "output/竞品图片预览/figma-44-1566.webp",
+      "output/竞品图片预览/figma-44-1567.webp",
+      "output/竞品图片预览/figma-44-1568.webp",
+      "output/竞品图片预览/figma-44-1569.webp",
+      "output/竞品图片预览/figma-44-1570.webp",
+      "output/竞品图片预览/figma-44-1571.webp",
+      "output/竞品图片预览/figma-44-1572.webp",
+      "output/竞品图片预览/figma-44-1573.webp",
+      "output/竞品图片预览/figma-44-1574.webp",
+      "output/竞品图片预览/figma-44-1575.webp",
+      "output/竞品图片预览/figma-44-1576.webp",
+      "output/竞品图片预览/figma-44-1577.webp",
+      "output/竞品图片预览/figma-44-1578.webp",
+      "output/竞品图片预览/figma-44-1579.webp",
+      "output/竞品图片预览/figma-44-1580.webp",
+      "output/竞品图片预览/figma-44-1581.webp",
+      "output/竞品图片预览/gridview-01.webp",
+      "output/竞品图片预览/gridview-02.webp",
+      "output/竞品图片预览/gridview-03.webp",
+      "output/竞品图片预览/gridview-04.webp",
+      "output/竞品图片预览/gridview-05.webp",
+      "output/竞品图片预览/gridview-06.webp",
+      "output/竞品图片预览/gridview-07.webp",
+      "output/竞品图片预览/gridview-08.webp",
+      "output/竞品图片预览/h3c-01.webp",
+      "output/竞品图片预览/h3c-02.webp",
+      "output/竞品图片预览/h3c-03.webp",
+      "output/竞品图片预览/h3c-04.webp",
+      "output/竞品图片预览/h3c-05.webp",
+      "output/竞品图片预览/h3c-06.webp",
+      "output/竞品图片预览/h3c-07.webp",
+      "output/竞品图片预览/h3c-08.webp",
+      "output/竞品图片预览/h3c-09.webp",
+      "output/竞品图片预览/h3c-10.webp",
+      "output/竞品图片预览/h3c-11.webp",
+      "output/竞品图片预览/h3c-12.webp",
+      "output/竞品图片预览/h3c-13.webp",
+      "output/竞品图片预览/h3c-14.webp",
+      "output/竞品图片预览/h3c-15.webp",
+      "output/竞品图片预览/h3c-16.webp",
+      "output/竞品图片预览/h3c-17.webp",
+      "output/竞品图片预览/huawei-01.webp",
+      "output/竞品图片预览/huawei-02.webp",
+      "output/竞品图片预览/huawei-03.webp",
+      "output/竞品图片预览/huawei-04.webp",
+      "output/竞品图片预览/huawei-05.webp",
+      "output/竞品图片预览/huawei-06.webp",
+      "output/竞品图片预览/huawei-07.webp",
+      "output/竞品图片预览/huawei-08.webp",
+      "output/竞品图片预览/huawei-09.webp",
+      "output/竞品图片预览/huawei-10.webp",
+      "output/竞品图片预览/huawei-11.webp",
+      "output/竞品图片预览/huawei-12.webp",
+      "output/竞品图片预览/huawei-13.webp",
+      "output/竞品图片预览/runai-01.webp",
+      "output/竞品图片预览/runai-02.webp",
+      "output/竞品图片预览/runai-03.webp",
+      "output/竞品图片预览/runai-04.webp",
+      "output/竞品图片预览/runai-05.webp",
+      "output/竞品图片预览/sothis-03.webp",
+      "output/竞品图片预览/sothis-04.webp",
+      "output/竞品图片预览/sothis-05.webp",
+      "output/竞品图片预览/sothis-06.webp",
+      "output/竞品图片预览/sothis-07.webp",
+      "output/竞品图片预览/sothis-09.webp",
+      "output/竞品图片预览/sothis-10.webp",
+      "output/竞品图片预览/sothis-11.webp",
+      "output/竞品图片预览/sothis-12.webp",
+      "output/竞品图片预览/sothis-13.webp",
+      "output/竞品图片预览/sothis-14.webp",
+      "output/竞品图片预览/sothis-15.webp",
+      "output/竞品图片预览/sothis-16.webp",
+      "output/竞品图片预览/sothis-18.webp",
+      "output/竞品图片预览/sothis-19.webp",
+      "output/竞品图片预览/sothis-20.webp",
+      "output/竞品图片预览/sothis-21.webp",
+      "output/竞品图片预览/sothis-22.webp",
+      "output/竞品图片预览/sothis-23.webp",
+      "output/竞品图片预览/sothis-25.webp",
+      "output/竞品图片预览/sothis-26.webp",
+      "output/竞品图片预览/sothis-27.webp",
+      "output/竞品图片预览/sothis-28.webp",
+      "output/竞品图片预览/sothis-30.webp",
+      "output/竞品图片预览/sothis-31.webp",
+      "output/竞品图片预览/sothis-32.webp",
+      "output/竞品图片预览/sothis-33.webp",
+      "output/竞品图片预览/sothis-34.webp",
+      "output/竞品图片预览/sothis-35.webp",
+      "output/竞品补充截图/AIStation/P023.png",
+      "output/竞品补充截图/AIStation/P029-训练配置.png",
+      "output/竞品补充截图/AIStation/P037.png",
+      "output/竞品补充截图/AIStation/P064.png",
+      "output/竞品补充截图/AIStation/P142.png",
+      "output/竞品补充截图/AIStation/P150.png",
+      "output/竞品补充截图/H3C灵犀Base/P005-角色与范围.png",
+      "output/竞品补充截图/H3C灵犀Base/P013-租户用户管理.png",
+      "output/竞品补充截图/SothisAI/P03.png",
+      "output/竞品补充截图/SothisAI/P04.png",
+      "output/竞品补充截图/SothisAI/P05.png",
+      "output/竞品补充截图/SothisAI/P06.png",
+      "output/竞品补充截图/SothisAI/P07.png",
+      "output/竞品补充截图/SothisAI/P09.png",
+      "output/竞品补充截图/SothisAI/P10.png",
+      "output/竞品补充截图/SothisAI/P11.png",
+      "output/竞品补充截图/SothisAI/P12.png",
+      "output/竞品补充截图/SothisAI/P13.png",
+      "output/竞品补充截图/SothisAI/P14.png",
+      "output/竞品补充截图/SothisAI/P15.png",
+      "output/竞品补充截图/SothisAI/P16.png",
+      "output/竞品补充截图/SothisAI/P18.png",
+      "output/竞品补充截图/SothisAI/P19.png",
+      "output/竞品补充截图/SothisAI/P20.png",
+      "output/竞品补充截图/SothisAI/P21.png",
+      "output/竞品补充截图/SothisAI/P22.png",
+      "output/竞品补充截图/SothisAI/P23.png",
+      "output/竞品补充截图/SothisAI/P25.png",
+      "output/竞品补充截图/SothisAI/P26.png",
+      "output/竞品补充截图/SothisAI/P27.png",
+      "output/竞品补充截图/SothisAI/P28.png",
+      "output/竞品补充截图/SothisAI/P30.png",
+      "output/竞品补充截图/SothisAI/P31.png",
+      "output/竞品补充截图/SothisAI/P32.png",
+      "output/竞品补充截图/SothisAI/P33.png",
+      "output/竞品补充截图/SothisAI/P34.png",
+      "output/竞品补充截图/SothisAI/P35.png"
+    ],
+    "output/竞品补充截图/SothisAI/P35.png": [],
+    "output/竞品补充截图/SothisAI/P34.png": [],
+    "output/竞品补充截图/SothisAI/P33.png": [],
+    "output/竞品补充截图/SothisAI/P32.png": [],
+    "output/竞品补充截图/SothisAI/P31.png": [],
+    "output/竞品补充截图/SothisAI/P30.png": [],
+    "output/竞品补充截图/SothisAI/P28.png": [],
+    "output/竞品补充截图/SothisAI/P27.png": [],
+    "output/竞品补充截图/SothisAI/P26.png": [],
+    "output/竞品补充截图/SothisAI/P25.png": [],
+    "output/竞品补充截图/SothisAI/P23.png": [],
+    "output/竞品补充截图/SothisAI/P22.png": [],
+    "output/竞品补充截图/SothisAI/P21.png": [],
+    "output/竞品补充截图/SothisAI/P20.png": [],
+    "output/竞品补充截图/SothisAI/P19.png": [],
+    "output/竞品补充截图/SothisAI/P18.png": [],
+    "output/竞品补充截图/SothisAI/P16.png": [],
+    "output/竞品补充截图/SothisAI/P15.png": [],
+    "output/竞品补充截图/SothisAI/P14.png": [],
+    "output/竞品补充截图/SothisAI/P13.png": [],
+    "output/竞品补充截图/SothisAI/P12.png": [],
+    "output/竞品补充截图/SothisAI/P11.png": [],
+    "output/竞品补充截图/SothisAI/P10.png": [],
+    "output/竞品补充截图/SothisAI/P09.png": [],
+    "output/竞品补充截图/SothisAI/P07.png": [],
+    "output/竞品补充截图/SothisAI/P06.png": [],
+    "output/竞品补充截图/SothisAI/P05.png": [],
+    "output/竞品补充截图/SothisAI/P04.png": [],
+    "output/竞品补充截图/SothisAI/P03.png": [],
+    "output/竞品图片预览/sothis-35.webp": [],
+    "output/竞品图片预览/sothis-34.webp": [],
+    "output/竞品图片预览/sothis-33.webp": [],
+    "output/竞品图片预览/sothis-32.webp": [],
+    "output/竞品图片预览/sothis-31.webp": [],
+    "output/竞品图片预览/sothis-30.webp": [],
+    "output/竞品图片预览/sothis-28.webp": [],
+    "output/竞品图片预览/sothis-27.webp": [],
+    "output/竞品图片预览/sothis-26.webp": [],
+    "output/竞品图片预览/sothis-25.webp": [],
+    "output/竞品图片预览/sothis-23.webp": [],
+    "output/竞品图片预览/sothis-22.webp": [],
+    "output/竞品图片预览/sothis-21.webp": [],
+    "output/竞品图片预览/sothis-20.webp": [],
+    "output/竞品图片预览/sothis-19.webp": [],
+    "output/竞品图片预览/sothis-18.webp": [],
+    "output/竞品图片预览/sothis-16.webp": [],
+    "output/竞品图片预览/sothis-15.webp": [],
+    "output/竞品图片预览/sothis-14.webp": [],
+    "output/竞品图片预览/sothis-13.webp": [],
+    "output/竞品图片预览/sothis-12.webp": [],
+    "output/竞品图片预览/sothis-11.webp": [],
+    "output/竞品图片预览/sothis-10.webp": [],
+    "output/竞品图片预览/sothis-09.webp": [],
+    "output/竞品图片预览/sothis-07.webp": [],
+    "output/竞品图片预览/sothis-06.webp": [],
+    "output/竞品图片预览/sothis-05.webp": [],
+    "output/竞品图片预览/sothis-04.webp": [],
+    "output/竞品图片预览/sothis-03.webp": [],
+    "output/竞品图片预览/runai-05.webp": [],
+    "output/竞品图片预览/runai-04.webp": [],
+    "output/竞品图片预览/runai-03.webp": [],
+    "output/竞品图片预览/runai-02.webp": [],
+    "output/竞品图片预览/runai-01.webp": [],
+    "output/竞品图片预览/huawei-13.webp": [],
+    "output/竞品图片预览/huawei-12.webp": [],
+    "output/竞品图片预览/huawei-11.webp": [],
+    "output/竞品图片预览/huawei-10.webp": [],
+    "output/竞品图片预览/huawei-09.webp": [],
+    "output/竞品图片预览/huawei-08.webp": [],
+    "output/竞品图片预览/huawei-07.webp": [],
+    "output/竞品图片预览/huawei-06.webp": [],
+    "output/竞品图片预览/huawei-05.webp": [],
+    "output/竞品图片预览/huawei-04.webp": [],
+    "output/竞品图片预览/huawei-03.webp": [],
+    "output/竞品图片预览/huawei-02.webp": [],
+    "output/竞品图片预览/huawei-01.webp": [],
+    "output/竞品图片预览/h3c-17.webp": [],
+    "output/竞品图片预览/h3c-16.webp": [],
+    "output/竞品图片预览/h3c-15.webp": [],
+    "output/竞品图片预览/h3c-14.webp": [],
+    "output/竞品图片预览/h3c-13.webp": [],
+    "output/竞品图片预览/h3c-12.webp": [],
+    "output/竞品图片预览/h3c-11.webp": [],
+    "output/竞品图片预览/h3c-10.webp": [],
+    "output/竞品图片预览/h3c-09.webp": [],
+    "output/竞品图片预览/h3c-08.webp": [],
+    "output/竞品图片预览/h3c-07.webp": [],
+    "output/竞品图片预览/h3c-06.webp": [],
+    "output/竞品图片预览/h3c-05.webp": [],
+    "output/竞品图片预览/h3c-04.webp": [],
+    "output/竞品图片预览/h3c-03.webp": [],
+    "output/竞品图片预览/h3c-02.webp": [],
+    "output/竞品图片预览/h3c-01.webp": [],
+    "output/竞品图片预览/gridview-08.webp": [],
+    "output/竞品图片预览/gridview-07.webp": [],
+    "output/竞品图片预览/gridview-06.webp": [],
+    "output/竞品图片预览/gridview-05.webp": [],
+    "output/竞品图片预览/gridview-04.webp": [],
+    "output/竞品图片预览/gridview-03.webp": [],
+    "output/竞品图片预览/gridview-02.webp": [],
+    "output/竞品图片预览/gridview-01.webp": [],
+    "output/竞品图片预览/figma-44-1581.webp": [],
+    "output/竞品图片预览/figma-44-1580.webp": [],
+    "output/竞品图片预览/figma-44-1579.webp": [],
+    "output/竞品图片预览/figma-44-1578.webp": [],
+    "output/竞品图片预览/figma-44-1577.webp": [],
+    "output/竞品图片预览/figma-44-1576.webp": [],
+    "output/竞品图片预览/figma-44-1575.webp": [],
+    "output/竞品图片预览/figma-44-1574.webp": [],
+    "output/竞品图片预览/figma-44-1573.webp": [],
+    "output/竞品图片预览/figma-44-1572.webp": [],
+    "output/竞品图片预览/figma-44-1571.webp": [],
+    "output/竞品图片预览/figma-44-1570.webp": [],
+    "output/竞品图片预览/figma-44-1569.webp": [],
+    "output/竞品图片预览/figma-44-1568.webp": [],
+    "output/竞品图片预览/figma-44-1567.webp": [],
+    "output/竞品图片预览/figma-44-1566.webp": [],
+    "output/竞品图片预览/figma-44-1534.webp": [],
+    "output/竞品图片预览/figma-44-1532.webp": [],
+    "output/竞品图片预览/figma-44-1531.webp": [],
+    "output/竞品图片预览/figma-44-1530.webp": [],
+    "output/竞品图片预览/figma-44-1529.webp": [],
+    "output/竞品图片预览/figma-44-1525.webp": [],
+    "output/竞品图片预览/dps-03.webp": [],
+    "output/竞品图片预览/dps-02.webp": [],
+    "output/竞品图片预览/dps-01.webp": [],
+    "output/竞品图片预览/bcm-04.webp": [],
+    "output/竞品图片预览/bcm-03.webp": [],
+    "output/竞品图片预览/bcm-02.webp": [],
+    "output/竞品图片预览/bcm-01.webp": [],
+    "output/竞品图片预览/base-extra-7.webp": [],
+    "output/竞品图片预览/base-extra-6.webp": [],
+    "output/竞品图片预览/base-extra-25.webp": [],
+    "output/竞品图片预览/base-13.webp": [],
+    "output/竞品图片预览/base-05.webp": [],
+    "output/竞品图片预览/baidu-32.webp": [],
+    "output/竞品图片预览/baidu-31.webp": [],
+    "output/竞品图片预览/baidu-30.webp": [],
+    "output/竞品图片预览/baidu-29.webp": [],
+    "output/竞品图片预览/baidu-28.webp": [],
+    "output/竞品图片预览/baidu-27.webp": [],
+    "output/竞品图片预览/baidu-26.webp": [],
+    "output/竞品图片预览/baidu-25.webp": [],
+    "output/竞品图片预览/baidu-24.webp": [],
+    "output/竞品图片预览/baidu-23.webp": [],
+    "output/竞品图片预览/baidu-22.webp": [],
+    "output/竞品图片预览/baidu-21.webp": [],
+    "output/竞品图片预览/baidu-20.webp": [],
+    "output/竞品图片预览/baidu-19.webp": [],
+    "output/竞品图片预览/baidu-18.webp": [],
+    "output/竞品图片预览/baidu-17.webp": [],
+    "output/竞品图片预览/baidu-16.webp": [],
+    "output/竞品图片预览/baidu-15.webp": [],
+    "output/竞品图片预览/baidu-14.webp": [],
+    "output/竞品图片预览/baidu-13.webp": [],
+    "output/竞品图片预览/baidu-12.webp": [],
+    "output/竞品图片预览/baidu-11.webp": [],
+    "output/竞品图片预览/baidu-10.webp": [],
+    "output/竞品图片预览/baidu-09.webp": [],
+    "output/竞品图片预览/baidu-08.webp": [],
+    "output/竞品图片预览/baidu-07.webp": [],
+    "output/竞品图片预览/baidu-06.webp": [],
+    "output/竞品图片预览/baidu-05.webp": [],
+    "output/竞品图片预览/baidu-04.webp": [],
+    "output/竞品图片预览/baidu-03.webp": [],
+    "output/竞品图片预览/baidu-02.webp": [],
+    "output/竞品图片预览/baidu-01.webp": [],
+    "output/竞品图片预览/ajr-01.webp": [],
+    "output/竞品图片预览/aistation-64.webp": [],
+    "output/竞品图片预览/aistation-37.webp": [],
+    "output/竞品图片预览/aistation-29.webp": [],
+    "output/竞品图片预览/aistation-23.webp": [],
+    "output/竞品图片预览/aistation-150.webp": [],
+    "output/竞品图片预览/aistation-142.webp": [],
+    "output/竞品图片预览/ahr-15.webp": [],
+    "output/竞品图片预览/ahr-14.webp": [],
+    "output/竞品图片预览/ahr-13.webp": [],
+    "output/竞品图片预览/ahr-12.webp": [],
+    "output/竞品图片预览/ahr-11.webp": [],
+    "output/竞品图片预览/ahr-10.webp": [],
+    "output/竞品图片预览/ahr-09.webp": [],
+    "output/竞品图片预览/ahr-08.webp": [],
+    "output/竞品图片预览/ahr-07.webp": [],
+    "output/竞品图片预览/ahr-06.webp": [],
+    "output/竞品图片预览/ahr-05.webp": [],
+    "output/竞品图片预览/ahr-04.webp": [],
+    "output/竞品图片预览/ahr-03.webp": [],
+    "output/竞品图片预览/ahr-02.webp": [],
+    "output/竞品图片预览/ahr-01.webp": [],
+    "output/Figma背景竞品截图/44-1581.png": [],
+    "output/Figma背景竞品截图/44-1580.png": [],
+    "output/Figma背景竞品截图/44-1579.png": [],
+    "output/Figma背景竞品截图/44-1578.png": [],
+    "output/Figma背景竞品截图/44-1575.png": [],
+    "output/Figma背景竞品截图/44-1574.png": [],
+    "output/Figma背景竞品截图/44-1572.png": [],
+    "output/Figma背景竞品截图/44-1571.png": [],
+    "output/Figma背景竞品截图/44-1569.png": [],
+    "output/Figma背景竞品截图/44-1568.png": [],
+    "output/Figma背景竞品截图/44-1566.png": [],
+    "output/Figma背景竞品截图/44-1534.png": [],
+    "output/Figma背景竞品截图/44-1531.png": [],
+    "output/Figma背景竞品截图/44-1529.png": [],
+    "output/Figma背景竞品截图/44-1525.png": [],
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/32-资源报表与卡时核算.png": [],
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/29-具身模型评测结果对比.png": [],
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/28-具身模型评测任务配置.png": [],
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/27-模型注册与版本元数据.png": [],
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/26-数据集与存储版本.png": [],
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/25-AI数据处理与Ray执行.png": [],
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/24-工作流运行记录.png": [],
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/23-工作流配置与依赖图.png": [],
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/22-服务压测任务与测试条件.png": [],
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/21-多服务流量分配策略.png": [],
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/20-推理服务自动扩缩容.png": [],
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/19-在线调试与请求预览.png": [],
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/18-多角色与PD分离服务组.png": [],
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/16-训练失败智能诊断助手.png": [],
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/15-Hang调用栈诊断.png": [],
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/14-训练容错与重试配置.png": [],
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/13-队列工作负载总览.png": [],
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/12-资源池利用率监控.png": [],
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/11-TensorBoard训练效果.png": [],
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/10-训练吞吐与硬件维度监控.png": [],
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/07-云端开发机与WebIDE.png": [],
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/05-碎片治理结果.png": [],
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/04-GPU虚拟化与分数卡.png": [],
+    "参考资料/百度百舸-AI计算平台-产品截图/screenshots/03-队列调度与空闲资源出借.png": [],
+    "参考资料/mindcluster-ccae-产品截图/screenshots/13-健康评估报告：算网存跨域检查结果.png": [],
+    "参考资料/mindcluster-ccae-产品截图/screenshots/12-推理服务列表：服务状态与资源占用.png": [],
+    "参考资料/mindcluster-ccae-产品截图/screenshots/11-推理业务指标：成功率、延迟与吞吐.png": [],
+    "参考资料/mindcluster-ccae-产品截图/screenshots/10-NPU综合监控参考.png": [],
+    "参考资料/mindcluster-ccae-产品截图/screenshots/06-Deployer软件包准备.png": [],
+    "参考资料/mindcluster-ccae-产品截图/screenshots/01-CCAE服务器资源清单.png": [],
+    "参考资料/h3c-unipod-addc-产品截图/screenshots/16-存储I-O路径与时延分析.png": [],
+    "参考资料/h3c-unipod-addc-产品截图/screenshots/15-链路负载分布与调优观察.png": [],
+    "参考资料/h3c-unipod-addc-产品截图/screenshots/14-路径导航与调度模式.png": [],
+    "参考资料/h3c-unipod-addc-产品截图/screenshots/12-微突发与毫秒级队列缓冲.png": [],
+    "参考资料/h3c-unipod-addc-产品截图/screenshots/11-光模块健康与风险排名.png": [],
+    "参考资料/h3c-unipod-addc-产品截图/screenshots/10-服务器性能与告警分诊.png": [],
+    "参考资料/h3c-unipod-addc-产品截图/screenshots/08-巡检结果与未通过项目.png": [],
+    "参考资料/h3c-unipod-addc-产品截图/screenshots/03-存储网络VLAN接入.png": [],
+    "参考资料/h3c-unipod-addc-产品截图/screenshots/01-网络自动开局与上线结果.png": [],
+    "参考资料/gridview-7-产品截图/screenshots/05-网络监控.png": [],
+    "参考资料/gridview-7-产品截图/screenshots/03-集群级监控.png": [],
+    "参考资料/gridview-7-产品截图/screenshots/02-节点级监控.png": [],
+    "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/14-固件升级流程库.png": [],
+    "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/13-告警时间线与调查.png": [],
+    "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/12-告警规则与自动动作.png": [],
+    "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/11-活跃告警中心.png": [],
+    "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/10-节点诊断日志.png": [],
+    "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/09-失败结果下钻.png": [],
+    "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/08-已发布的验收报告.png": [],
+    "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/06-自动修复执行详情.png": [],
+    "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/05-运行记录与状态.png": [],
+    "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/04-运维流程执行与编辑权限.png": [],
+    "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/02-资源详情与运行历史.png": [],
+    "参考资料/NVIDIA-Mission-Control-截图修订版/screenshots/01-运维首页总览.png": [],
+    "参考资料/NVIDIA-Mission-Control-截图修订版/components/runai/screenshots/04-工作负载统一入口与生命周期.png": [],
+    "参考资料/NVIDIA-Mission-Control-截图修订版/components/dps/screenshots/03-电力分配拓扑编辑示例.png": [],
+    "参考资料/NVIDIA-Mission-Control-截图修订版/components/dps/screenshots/02-电力策略编辑示例.png": [],
+    "参考资料/NVIDIA-Mission-Control-截图修订版/components/dps/screenshots/01-电力策略与资源组总览.jpeg": [],
+    "参考资料/NVIDIA-Mission-Control-截图修订版/components/bcm/screenshots/04-集群用户与分组.png": [],
+    "参考资料/NVIDIA-Mission-Control-截图修订版/components/bcm/screenshots/03-按工作负载选择GPU功耗档位.png": [],
+    "参考资料/NVIDIA-Mission-Control-截图修订版/components/bcm/screenshots/02-漏液与隔离状态监控.png": [],
+    "参考资料/NVIDIA-Mission-Control-截图修订版/components/bcm/screenshots/01-漏液事件追踪.png": [],
+    "output/百度百舸-用户截图/截屏2026-10-21 13.19.56.png": [],
+    "output/百度百舸-用户截图/截屏2026-10-21 13.19.40.png": [],
+    "output/百度百舸-用户截图/截屏2026-10-21 13.19.13.png": [],
+    "output/百度百舸-用户截图/截屏2026-10-21 13.18.57.png": [],
+    "output/百度百舸-用户截图/截屏2026-10-21 13.18.54.png": [],
+    "output/百度百舸-用户截图/截屏2026-10-21 13.18.38.png": [],
+    "output/百度百舸-用户截图/截屏2026-10-21 13.17.45.png": [],
+    "output/百度百舸-用户截图/截屏2026-10-21 13.17.37.png": [],
+    "output/执行方案清单.csv": [],
+    "output/业务关系示例图.png": []
+  }
+}

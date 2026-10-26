@@ -1,0 +1,16 @@
+{
+  "asset_files": 358,
+  "asset_bytes": 87015852,
+  "payload_files": 360,
+  "payload_bytes": 87016177,
+  "total_files": 362,
+  "metadata_files": [
+    "manifest.json",
+    "static-validation.json"
+  ],
+  "bytes_scope": "payload_bytes包含全部页面与资产，不含这两份元数据，避免自引用统计",
+  "html": 7,
+  "dependency_edges": 739,
+  "missing": 0,
+  "source_unchanged": true
+}
