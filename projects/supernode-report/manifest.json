@@ -7,9 +7,9 @@
   "entry": "index.html",
   "statistics": {
     "asset_files": 358,
-    "asset_bytes": 87013546,
+    "asset_bytes": 87013567,
     "payload_files": 359,
-    "payload_bytes": 87013871,
+    "payload_bytes": 87013892,
     "total_files": 361,
     "metadata_files": [
       "manifest.json",
@@ -115,16 +115,16 @@
       "sha256": "4068397e22020e24392b11c76c70da8ec6061988cb61a2d2b0adc308812be32a"
     },
     "output/产品定位-产品介绍更新版.html": {
-      "bytes": 18488,
-      "sha256": "61ad28ddcf374b0f4dc9b0992371e6bd44f78033f4a3c770bb697757a554f585"
+      "bytes": 18476,
+      "sha256": "bc4434b3c00a3a07e0d0d0942aaa38cd772881cc1429ab39c1c03a4e0b518073"
     },
     "output/产品框架-双门户角色侧边栏V12.html": {
-      "bytes": 282944,
-      "sha256": "098809545d889a29aedee8a7cc5f0ac1700253c9e9ed2b3970d2c668cbc62ff1"
+      "bytes": 282935,
+      "sha256": "0a749ce8d5217c1884ce7385913a323fdb4d5d000e1667df7777202410f23299"
     },
     "output/全场景旅程与角色协作V15.html": {
-      "bytes": 109714,
-      "sha256": "d3a07ed89c0bfad4a085aff5ad914d6f964a393359776c2ac1d75eee7b7e0844"
+      "bytes": 109710,
+      "sha256": "ab39b6152cd3c8ee005777adb06e4a10673c5d1c7036f4d4a9eec13bdabcbf77"
     },
     "output/执行方案清单.csv": {
       "bytes": 23654,
@@ -216,7 +216,7 @@
     },
     "output/竞品侧边栏分析V3/index.html": {
       "bytes": 105005,
-      "sha256": "ccc4c328d2fea9f2a7ed77bd188bd2657c807d2ce02a7496357dd5bf66bcd6c3"
+      "sha256": "cc1ccb25adf3591d03b4aebba16d22aff7a38d3b4fedb635ca90056345e2ba38"
     },
     "output/竞品侧边栏补图/base-06.png": {
       "bytes": 335338,
@@ -875,8 +875,8 @@
       "sha256": "b6f0660c47b7d8de7085d4115dcd255ec61be6d62079e18fd521af5eb454bc67"
     },
     "output/竞品结论与设计洞察V2.html": {
-      "bytes": 57528,
-      "sha256": "6b2c6cb6e15bee647f04de94b2d86fd1ecb38a193f82b6c6092669924b201be2"
+      "bytes": 57526,
+      "sha256": "0668f1b4ea0407e51e3e956137bcb95633a4cbe07116b14d19b3f631d237d370"
     },
     "output/竞品补充截图/AIStation/P023.png": {
       "bytes": 235397,
@@ -1051,8 +1051,8 @@
       "sha256": "1d9410bcf9334ab5c4ef67e79a88fcd0558cfc20ecab177f314a2a977162fb2a"
     },
     "output/超节点平台竞争分析.html": {
-      "bytes": 4466033,
-      "sha256": "d862c6868c6f0de1abed750fe9ac4f15e971b1593911bccea023b106abc464d7"
+      "bytes": 4466081,
+      "sha256": "124533af18ec658fdef52eeb8f00585ddcaebd3fca2a3a9064d635c097d15115"
     },
     "output/超节点平台竞争分析.md": {
       "bytes": 167394,
