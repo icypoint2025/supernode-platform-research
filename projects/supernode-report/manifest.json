@@ -7,9 +7,9 @@
   "entry": "index.html",
   "statistics": {
     "asset_files": 358,
-    "asset_bytes": 87048354,
+    "asset_bytes": 87051690,
     "payload_files": 359,
-    "payload_bytes": 87048679,
+    "payload_bytes": 87052015,
     "total_files": 361,
     "metadata_files": [
       "manifest.json",
@@ -1043,16 +1043,16 @@
       "sha256": "f7fb4fe4ad280324d17bbc2bd9fa17333e1e1dc8b76b23922f5cbb725d1c41ab"
     },
     "output/设计策略.md": {
-      "bytes": 47048,
-      "sha256": "654e9c77c131b33a6342bfe3e346eb667f032e642dfb8388936ddd5d928266cd"
+      "bytes": 47804,
+      "sha256": "066f4c11dcde5ef01da9e55c058ef31f28bde0392877e3b9d2197ed52286287e"
     },
     "output/设计策略清单.csv": {
       "bytes": 10921,
       "sha256": "1d9410bcf9334ab5c4ef67e79a88fcd0558cfc20ecab177f314a2a977162fb2a"
     },
     "output/超节点平台竞争分析.html": {
-      "bytes": 4500868,
-      "sha256": "b32e0e88b281c3baa1aaa49126784d90fbe64709443fc99ad1ffbf0782d9f885"
+      "bytes": 4503448,
+      "sha256": "663899d36e251755a8bc1a175f5c5d463e02578e551b6af76d816e3c059ff763"
     },
     "output/超节点平台竞争分析.md": {
       "bytes": 167394,
