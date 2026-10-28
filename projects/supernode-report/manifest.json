@@ -7,9 +7,9 @@
   "entry": "index.html",
   "statistics": {
     "asset_files": 358,
-    "asset_bytes": 87013567,
+    "asset_bytes": 87048354,
     "payload_files": 359,
-    "payload_bytes": 87013892,
+    "payload_bytes": 87048679,
     "total_files": 361,
     "metadata_files": [
       "manifest.json",
@@ -1051,8 +1051,8 @@
       "sha256": "1d9410bcf9334ab5c4ef67e79a88fcd0558cfc20ecab177f314a2a977162fb2a"
     },
     "output/超节点平台竞争分析.html": {
-      "bytes": 4466081,
-      "sha256": "124533af18ec658fdef52eeb8f00585ddcaebd3fca2a3a9064d635c097d15115"
+      "bytes": 4500868,
+      "sha256": "b32e0e88b281c3baa1aaa49126784d90fbe64709443fc99ad1ffbf0782d9f885"
     },
     "output/超节点平台竞争分析.md": {
       "bytes": 167394,
