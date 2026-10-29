@@ -264,27 +264,34 @@ body.text-editing [data-edit-id]{outline:1px dashed #9bb7e7;outline-offset:2px;c
 .pf-decisions li{padding:0 0 6px;border-bottom:1px solid #f0f3f8;font-size:13px}
 .pf-brief .pf-boundary{margin:12px 0 0;padding:8px 10px;border-left:2px solid #c5d0df;background:#f8fafc;font-size:12px;color:var(--pf-sub)}
 .pf-brief .pf-scope-note{margin:10px 0 0;color:var(--pf-sub);font-size:12px;line-height:1.65}
-.pf-brief .pf-context-band{margin:0 0 16px;padding:11px 14px;border:1px solid #d9e4f6;border-radius:5px;background:var(--pf-soft);color:#425e8d;font-size:13px}
-.pf-flow{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px;padding:0;margin:0;list-style:none}
-.pf-flow li{position:relative;padding:14px;border:1px solid var(--pf-line);border-radius:6px;background:#fff}
-.pf-flow li:not(:last-child)::after{content:"→";position:absolute;top:50%;right:-14px;line-height:1;color:#7c92b6;font-size:17px;transform:translateY(-50%)}
+.pf-task-diagram,.pf-incident-diagram{padding:18px;border:1px solid var(--pf-line);border-radius:8px;background:#fff}
+.pf-brief .pf-context-band{margin:0 0 18px;padding:0 0 14px;border:0;border-bottom:1px solid var(--pf-line);background:transparent;color:var(--pf-ink);font-size:16px;font-weight:650}
+.pf-flow{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:24px;padding:0;margin:0;list-style:none}
+.pf-flow li{position:relative;min-width:0;padding:16px;border:1px solid var(--pf-line);border-radius:7px;background:#fff;break-inside:avoid}
+.pf-flow li:not(:last-child)::after{content:"→";position:absolute;top:50%;right:-24px;width:24px;height:24px;line-height:24px;text-align:center;color:#7c92b6;font-size:18px;transform:translateY(-50%)}
 .pf-step-number{font-size:13px;line-height:1.5;color:var(--pf-blue);font-weight:700}
-.pf-brief .pf-flow h3{margin:8px 0 4px;font-size:16px}
-.pf-brief .pf-flow p{margin:0;color:var(--pf-sub);font-size:12px}
-.pf-brief .pf-feedback-band{margin:12px 0 0;padding:9px 12px;background:#f5f8fd;text-align:center;color:#425e8d;font-size:13px;border-bottom:2px solid #d5e2fa}
-.pf-feature-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,200px),1fr));gap:12px}
-.pf-feature-grid article{padding:14px;border:1px solid var(--pf-line);border-radius:5px}
-.pf-brief .pf-feature-grid h4{margin:0 0 7px;font-size:15px}
-.pf-brief .pf-feature-grid p{margin:0;font-size:13px;color:var(--pf-sub)}
-.pf-brief .pf-value{margin:18px 0 0;padding:13px 15px;background:var(--pf-soft);border-left:3px solid var(--pf-blue);font-size:14px}
-.pf-example-label{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:12px;font-weight:650;font-size:14px}
+.pf-flow .pf-step-number{color:#788698;font-weight:400}
+.pf-brief .pf-flow h3{margin:12px 0 7px;font-size:17px}
+.pf-brief .pf-flow p{margin:0;color:var(--pf-sub);font-size:14px;line-height:1.8}
+.pf-task-flow li{min-height:140px;border:0;border-radius:5px}
+.pf-brief .pf-feedback-band{margin:16px 0 0;padding:14px 0 0;border-top:1px solid var(--pf-line);text-align:left;color:var(--pf-ink);font-size:15px;font-weight:650}
+.pf-feature-grid{display:block}
+.pf-feature-grid article{display:grid;grid-template-columns:minmax(130px,.4fr) minmax(0,1fr);gap:20px;min-width:0;padding:14px 0;border:0;border-bottom:1px solid var(--pf-line);break-inside:avoid}
+.pf-feature-grid article:last-child{border-bottom:0}
+.pf-brief .pf-feature-grid h4{margin:0;font-size:15px}
+.pf-brief .pf-feature-grid p{margin:0;font-size:14px;color:var(--pf-ink);line-height:1.8}
+.pf-brief .pf-value{margin:20px 0 0;padding:0;border:0;background:transparent;font-size:15px;font-weight:650;line-height:1.85}
+.pf-example-label{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:16px;font-weight:650;font-size:15px}
 .pf-status-subtle{font-weight:400}
-.pf-owner{display:block;margin-top:12px;padding-top:7px;border-top:1px solid var(--pf-line);font-size:11px;color:#718198}
-.pf-table-wrap{overflow-x:auto;border:1px solid var(--pf-line);border-radius:5px}
-.pf-management-table{width:100%;border-collapse:collapse;font-size:13px;min-width:360px}
-.pf-management-table th,.pf-management-table td{padding:9px 12px;border:0;border-bottom:1px solid var(--pf-line);text-align:left;vertical-align:top}
-.pf-management-table thead th{background:#f5f7fb;color:var(--pf-sub);font-weight:600}
-.pf-management-table tbody th{width:130px;white-space:nowrap;background:#fff;font-weight:600}
+.pf-incident-flow li{display:flex;flex-direction:column;min-height:190px}
+.pf-owner{display:block;margin-top:auto;padding-top:12px;border-top:1px solid var(--pf-line);font-size:12px;color:var(--pf-sub)}
+.pf-brief .pf-incident-diagram>.pf-boundary{margin:16px 0 0;padding:0;border:0;background:transparent}
+.pf-table-wrap{overflow-x:auto;border:0;border-radius:0}
+.pf-management-table{width:100%;border-collapse:collapse;font-size:14px;min-width:0}
+.pf-management-table th,.pf-management-table td{padding:12px 0;border:0;border-bottom:1px solid var(--pf-line);text-align:left;vertical-align:top}
+.pf-management-table thead th{background:transparent;color:var(--pf-ink);font-weight:650}
+.pf-management-table tbody th{width:24%;padding-right:20px;white-space:normal;background:transparent;font-weight:600}
+.pf-management-table thead th:first-child{width:24%;padding-right:20px}
 .pf-management-table tbody tr:last-child th,.pf-management-table tbody tr:last-child td{border-bottom:0}
 .pf-strategies{padding:0 16px;margin:0;list-style:none;border:1px solid var(--pf-line);border-radius:8px;background:#fff}
 .pf-strategies li+li{border-top:1px solid var(--pf-line)}
@@ -309,8 +316,9 @@ body.text-editing [data-edit-id]{outline:1px dashed #9bb7e7;outline-offset:2px;c
 .pf-evidence-legend dt{font-weight:650;font-size:13px;color:var(--pf-ink)}
 .pf-evidence-legend dd{margin:5px 0 0;font-size:12px}
 .pf-legacy-directory{margin-top:20px;padding-top:10px;border-top:1px solid #e4e9f2}
-@media(max-width:760px){.pf-platform-map{padding:14px}.pf-portal{padding:16px}.pf-brief .pf-shared{font-size:14px}.pf-brief .pf-header h1{font-size:22px}.pf-brief .pf-section-title h2{font-size:20px}.pf-flow{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.pf-flow li{padding:12px}.pf-flow li::after{display:none}.pf-strategies{padding:0 12px}.pf-overview-link{grid-template-columns:24px minmax(0,1fr);gap:4px 10px;padding:14px 0}.pf-overview-link>strong{grid-column:2;font-size:13px}.pf-brief .pf-closing h3{font-size:19px}.pf-side{padding:14px}.pf-object-grid{gap:6px}.pf-object-grid li{font-size:12px;padding:9px 3px}.pf-detail{margin-top:24px;padding-top:20px}}
-@media print{.pf-section-nav,.pf-legacy-directory,.pf-supplement{display:none!important}.pf-overview,.pf-detail{display:block!important;min-height:0;break-before:auto;break-inside:auto;margin:0;padding:16px 0}.pf-overview-link{break-inside:avoid}.pf-section-title{break-after:avoid}.pf-header{margin-bottom:12px}.pf-brief .pf-header h1{font-size:22px}.pf-brief .pf-section-title h2{font-size:20px}}
+@media(max-width:1100px){.pf-flow{grid-template-columns:1fr;gap:28px}.pf-flow li:not(:last-child)::after{content:"↓";display:block;left:50%;right:auto;top:auto;bottom:-28px;width:28px;height:28px;line-height:28px;transform:translateX(-50%)}}
+@media(max-width:760px){.pf-task-diagram,.pf-incident-diagram{padding:14px}.pf-feature-grid article{grid-template-columns:1fr;gap:5px}.pf-platform-map{padding:14px}.pf-portal{padding:16px}.pf-brief .pf-shared{font-size:14px}.pf-brief .pf-header h1{font-size:22px}.pf-brief .pf-section-title h2{font-size:20px}.pf-strategies{padding:0 12px}.pf-overview-link{grid-template-columns:24px minmax(0,1fr);gap:4px 10px;padding:14px 0}.pf-overview-link>strong{grid-column:2;font-size:13px}.pf-brief .pf-closing h3{font-size:19px}.pf-side{padding:14px}.pf-object-grid{gap:6px}.pf-object-grid li{font-size:12px;padding:9px 3px}.pf-detail{margin-top:24px;padding-top:20px}}
+@media print{.pf-flow{grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}.pf-flow li{padding:10px}.pf-flow li:not(:last-child)::after{content:"→";display:block;left:auto;right:-16px;top:50%;bottom:auto;width:16px;height:24px;line-height:24px;transform:translateY(-50%)}.pf-section-nav,.pf-legacy-directory,.pf-supplement{display:none!important}.pf-overview,.pf-detail{display:block!important;min-height:0;break-before:auto;break-inside:auto;margin:0;padding:16px 0}.pf-overview-link{break-inside:avoid}.pf-section-title{break-after:avoid}.pf-header{margin-bottom:12px}.pf-brief .pf-header h1{font-size:22px}.pf-brief .pf-section-title h2{font-size:20px}}
 </style><style id="report-visual-style">:root{--ink:#182235;--sub:#60708c;--mute:#718198;--line:#e4e9f2;--bg:#f4f6fa;--light:#eef3fb;--accent:#2664eb}
 body>main{padding:14px clamp(11px,1.5vw,30px) 30px}
 main>.report-panel{padding:10px clamp(12px,1.5vw,25px) 16px;}
@@ -415,6 +423,7 @@ footer{margin-top:11.25px;padding-top:4.5px}
 
   <section class="pf-slide pf-detail" id="pf-slide-3" tabindex="-1">
     <div class="pf-section-title"><p class="pf-kicker"><span data-edit-id="8415fefadc543f39e74e0149-0">用户端：以项目为关联，以任务为主线</span></p><h2><span data-edit-id="5ea28ee70c313dfe86e39541-0">让用户从发起任务到获得结果，保持操作连续</span></h2></div>
+    <div class="pf-task-diagram">
     <p class="pf-context-band" id="pf-project-context" tabindex="-1"><strong><span data-edit-id="6c45038704c294376fd1f781-0">项目上下文：</span></strong><span data-edit-id="051c8249ca2e63250427dff4-0">项目、配额、成员、可用资源</span></p>
     <ol class="pf-flow pf-task-flow" id="pf-task-flow" tabindex="-1" aria-label="用户任务全流程">
       <li><span class="pf-step-number"><span data-edit-id="86aa4cc6d3c7bd0ed2076541-0">01</span></span><h3><span data-edit-id="d7f82b32185e1219bc390006-0">快速开始</span></h3><p><span data-edit-id="aadee16da360d3a988a11c41-0">选择目标与模板</span></p></li>
@@ -423,6 +432,7 @@ footer{margin-top:11.25px;padding-top:4.5px}
       <li><span class="pf-step-number"><span data-edit-id="d4f0f6e97fac791f0484c4be-0">04</span></span><h3><span data-edit-id="5fd8d02cd4989828d3addd7b-0">结果管理</span></h3><p><span data-edit-id="20df79c886fe47069b513a1f-0">产物、费用及下一步</span></p></li>
     </ol>
     <p class="pf-feedback-band"><span data-edit-id="8b69f23a708aacce826c2a63-0">全过程提供状态反馈、异常提示和恢复入口</span></p>
+    </div>
     <h3 class="pf-subheading"><span data-edit-id="490aeaa692bd57e2509d7e23-0">三个重点交互设计</span></h3>
     <div class="pf-feature-grid">
       <article id="pf-quick-start" tabindex="-1"><h4><span data-edit-id="55dd72c82dfa4972c82496ca-0">快速开始</span></h4><p><span data-edit-id="15a39a6039f520f02bad1015-0">通过模板和快捷操作降低首次使用门槛，创建后进入正式业务模块继续管理。</span></p></article>
@@ -435,6 +445,7 @@ footer{margin-top:11.25px;padding-top:4.5px}
 
   <section class="pf-slide pf-detail" id="pf-slide-4" tabindex="-1">
     <div class="pf-section-title"><p class="pf-kicker"><span data-edit-id="3dbbbf71cd09a2d0aecaa800-0">管理端：从资源监控到异常处理闭环</span></p><h2><span data-edit-id="96ff86e25b28ba4b91b41eb9-0">不仅看到平台状态，还要明确问题如何解决</span></h2></div>
+    <div class="pf-incident-diagram">
     <div class="pf-example-label"><span><span data-edit-id="afb42c3f88ec119d9208c814-0">示例｜GPU 故障处理</span></span><span class="pf-status pf-status-subtle"><span data-edit-id="61d46b53f23ac025318d4b2a-0">设计优化建议</span></span></div>
     <ol class="pf-flow pf-incident-flow" aria-label="GPU故障处理的目标交互链路">
       <li><span class="pf-step-number"><span data-edit-id="c042d7488ced429131734104-0">01</span></span><h3><span data-edit-id="5f9762fd90a6b3e52b33f7a2-0">发现异常</span></h3><p><span data-edit-id="2ca216320d64ec95ce4c53e5-0">GPU 故障告警</span></p><span class="pf-owner"><span data-edit-id="68242ff6485766f22a3ac596-0">系统检测</span></span></li>
@@ -443,6 +454,7 @@ footer{margin-top:11.25px;padding-top:4.5px}
       <li><span class="pf-step-number"><span data-edit-id="8aaeab7af04312eff875b904-0">04</span></span><h3><span data-edit-id="ea65b8eb4f1bb207d392b652-0">验证结果</span></h3><p><span data-edit-id="28fe58d79462e3b5cb13cde7-0">恢复状态与操作记录</span></p><span class="pf-owner"><span data-edit-id="8fa4850884b986db1e80d15f-0">管理员 / 审计</span></span></li>
     </ol>
     <p class="pf-boundary"><span data-edit-id="69e03ce58b8978896e148428-0">示例为建议的目标交互链路；自动检测、故障处理和任务恢复能力需与 MRD 实现范围逐项核对。</span></p>
+    </div>
     <h3 class="pf-subheading"><span data-edit-id="e3927929fa7416e2c75f4781-0">管理端交互重点</span></h3>
     <div class="pf-table-wrap"><table class="pf-management-table"><thead><tr><th scope="col"><span data-edit-id="18478c6ef31b0c38453b07b5-0">设计方向</span></th><th scope="col"><span data-edit-id="342b1c904e01f4b6dc65d7d8-0">由什么转向什么</span></th></tr></thead><tbody>
       <tr><th scope="row"><span data-edit-id="ba9ca69fcd40369684bebeee-0">平台概览</span></th><td><span data-edit-id="82df6433b9226225703f7c4e-0">从指标展示 → 异常识别与待办处理</span></td></tr>
