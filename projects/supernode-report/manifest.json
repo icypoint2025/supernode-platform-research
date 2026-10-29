@@ -7,9 +7,9 @@
   "entry": "index.html",
   "statistics": {
     "asset_files": 358,
-    "asset_bytes": 87059121,
+    "asset_bytes": 87060183,
     "payload_files": 359,
-    "payload_bytes": 87059446,
+    "payload_bytes": 87060508,
     "total_files": 361,
     "metadata_files": [
       "manifest.json",
@@ -123,8 +123,8 @@
       "sha256": "0a749ce8d5217c1884ce7385913a323fdb4d5d000e1667df7777202410f23299"
     },
     "output/全场景旅程与角色协作V15.html": {
-      "bytes": 113565,
-      "sha256": "f693c96f02865cc398f4e76c7ba177de0f6665fe04e79c64a5a181f7e5b8a5c2"
+      "bytes": 114627,
+      "sha256": "54be828e78335d33b0787dab2ff4019ab9145ddfb3644daf45b93f3ea92551ca"
     },
     "output/执行方案清单.csv": {
       "bytes": 23654,
