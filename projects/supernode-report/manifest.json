@@ -7,9 +7,9 @@
   "entry": "index.html",
   "statistics": {
     "asset_files": 358,
-    "asset_bytes": 87060183,
+    "asset_bytes": 87060190,
     "payload_files": 359,
-    "payload_bytes": 87060508,
+    "payload_bytes": 87060515,
     "total_files": 361,
     "metadata_files": [
       "manifest.json",
@@ -124,7 +124,7 @@
     },
     "output/全场景旅程与角色协作V15.html": {
       "bytes": 114627,
-      "sha256": "54be828e78335d33b0787dab2ff4019ab9145ddfb3644daf45b93f3ea92551ca"
+      "sha256": "99f1c95abeeb3797604d5633a42e8f58a56101322a8901f09f3cf221c90ac94a"
     },
     "output/执行方案清单.csv": {
       "bytes": 23654,
@@ -1051,8 +1051,8 @@
       "sha256": "1d9410bcf9334ab5c4ef67e79a88fcd0558cfc20ecab177f314a2a977162fb2a"
     },
     "output/超节点平台竞争分析.html": {
-      "bytes": 4507024,
-      "sha256": "7d16f3e4c3b4fac22be5724196c236004027b6e6ee746d87c9418d51fbe03f2b"
+      "bytes": 4507031,
+      "sha256": "5d73d4aec5e379d3f1842c4a222524a65b097732dcd1272e5339a35e220ca253"
     },
     "output/超节点平台竞争分析.md": {
       "bytes": 167394,
